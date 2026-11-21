@@ -1,0 +1,369 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:13
+lWMH:u(F2f	起きる				起きる	おきる	Despertarse, ocurrir					kanji lectura N3
+nTuT@;jTmS	起こる				起こる	おこる	Ocurrir, suceder	地震が起こった				kanji lectura N3
+GdvbT?$kiH	起こす				起こす	おこす	Despertar (a alguien)					kanji lectura N3
+"p&Kr.FHV`#"	早起きする				早起きする	はやおきする	Despertarse temprano					kanji lectura N3
+CwAb1;wrzi	再起動する				再起動する	さいきどうする	Reiniciar (PC, dispositivos, etc)					kanji lectura N3
+sFHa*t+)<q	寝る				寝る	ねる	Dormir, o irse a dormir					kanji lectura N3
+yk7EVt`[|:	寝かす				寝かす	ねかす	Hacer dormir a alguien					kanji lectura N3
+m,I.Ef;V};	昼寝				昼寝	ひるね	Siesta					kanji lectura N3
+t~z1[2Bj`W	寝室				寝室	しんしつ	Dormitorio					kanji lectura N3
+wEKFsE2XQ1	寝台車				寝台車	しんだいしゃ	Vagon de tren con cama					kanji lectura N3
+Bx{H|nisNh	日光浴				日光浴	にっこうよく	Tomar el sol					kanji lectura N3
+zp+tXj2t:n	浴びる				浴びる	あびる	Bañarse de algo, estar expuesto a algo					kanji lectura N3
+Oy}}(exI;*	浴室				浴室	よくしつ	Cuarto de baño					kanji lectura N3
+I`?~--K7kN	海水浴				海水浴	かいすいよく	Nadar en el mar					kanji lectura N3
+Ge`s20hELf	お湯				お湯	おゆ	Agua caliente					kanji lectura N3
+wd.&]0vPLk	湯舟				湯舟	ゆぶね	Bañera					kanji lectura N3
+PM!0J{q.s6	熱湯				熱湯	ねっとう	Agua hirviendo					kanji lectura N3
+PqiFm?Jto!	浴衣				浴衣	ゆかた						kanji lectura N3
+GEF}<ZjN_/	おこる				起こる	おこる	Ocurrir, suceder					escritura kanji N3
+C%,7IYLE]d	おきる				起きる	おきる	Despertarse, levantarse					escritura kanji N3
+BFxSV.UUmK	おこす				起こす	おこす	Despertar a alguien					escritura kanji N3
+z(>k]g?Sb.	はやおき				早起き	はやおき	Levantarse temprano					escritura kanji N3
+lEja>><ru<	さいきどう				再起動	さいきどう	Reiniciar un dispositivo					escritura kanji N3
+ee:taL@<xe	ねる				寝る	ねる	Dormir, irse a dormir					escritura kanji N3
+dRr@%UVuE7	ねかす				寝かす	ねかす	Hacer dormir a alguien					escritura kanji N3
+Cek)I/!+A+	ひるね				昼寝	ひるね	Siesta					escritura kanji N3
+"rZ8#XX.6+:"	しんしつ				寝室	しんしつ	Dormitorio					escritura kanji N3
+OXb~Y$C2Uh	しんだいしゃ				寝台車	しんだいしゃ	Vagon de tren con cama					escritura kanji N3
+"tz|*#)rSyX"	あびる				浴びる	あびる	Bañarse, estar expuesto a algo					escritura kanji N3
+mMO1:7&&?c	にっこうよく				日光浴	にっこうよく	Tomar el sol					escritura kanji N3
+c}![!!L>?m	みずあび				水浴び	みずあび	Meterse al agua					escritura kanji N3
+p>8:EoDA<	よくしつ				浴室	よくしつ	Cuarto de baño					escritura kanji N3
+gB]vK{F1Pg	かいすいよく				海水浴	かいすいよく	Nadar en el mar					escritura kanji N3
+x)$w6E!Q=?	おゆ				お湯	おゆ	Agua caliente					escritura kanji N3
+"Ad#-]Gxtfg"	ゆぶね				湯舟	ゆぶね	Bañera					escritura kanji N3
+OKTjSUS&CZ	ねっとう				熱湯	ねっとう	Agua hirviendo					escritura kanji N3
+x~i!R}NXh8	ゆかた				浴衣	ゆかた	Yukata					escritura kanji N3
+NN0m2=yC59	&nbsp;洗う				洗う	あらう	Lavar					kanji lectura N3
+wSW_S/A}=&	あらう				洗う	あらう	Lavar					escritura kanji N3
+oVlK~Drv*c	洗剤	＿ざい			洗剤	せんざい	Detergente					kanji lectura N3
+O|&6jmSJgc	せんざい				洗剤	せんざい	Detergente					escritura kanji N3
+J3E4[S/k1t	水洗				水洗	すいせん	Lavar con agua					kanji lectura N3
+ImumL^L,bi	すいせん				水洗	すいせん	Lavar con agua					escritura kanji N3
+fW3N`BUrH5	洗面所	＿めん＿＿			洗面所	せんめんじょ	Cuarto para lavarse las manos					kanji lectura N3
+IXVWUFiexk	お手洗い				お手洗い	おてあらい	Baño					kanji lectura N3
+AwwoEp-?+c	てあらい				手洗い	てあらい	Lavarse las manos					escritura kanji N3
+"A%#d~WFw})"	洗濯				洗濯	せんたく	Lavar la ropa					kanji lectura N3
+kPov,w%u$o	洗濯物				洗濯物	せんたくもの	Ropa lavada o para lavar					kanji lectura N3
+neennm-`pX	干す				干す	ほす	Secar					kanji lectura N3
+N-|XKN@6pQ	若干名	じゃっ_ _			若干名	じゃっかんめい	Pocas personas					kanji lectura N3
+ee:xq/5IyX	干渉	_しょう			干渉	かんしょう	Interferir					kanji lectura N3
+GCIr/U7c^u	干物				干物	ひもの	Pescado seco					kanji lectura N3
+ND7AIYN-^!	干しトマト				干しトマト	ほしとまと	Tomates secos					kanji lectura N3
+vJ4_qc.us]	梅干し				梅干し	うめぼし	Umeboshi					kanji lectura N3
+c+E9Y~CC]>	せんたく				洗濯	せんたく	Lavar la ropa					escritura kanji N3
+n}S{rP!Qjw	せんたくもの				洗濯物	せんたくもの	Ropa lavada o para lavar					escritura kanji N3
+p@aW.Hl&wn	ほす				干す	ほす	Secar					escritura kanji N3
+c65BQO+%P3	じゃっかんめい				若干名	じゃっかんめい	Pocas personas					escritura kanji N3
+j6x8n<.7Pe	[かん]渉	＿しょう			干渉	かんしょう	Interferir					escritura kanji N3
+wzm60+!IRT	ひもの				干物	ひもの	Pescado seco					escritura kanji N3
+"P|(^#@bD^3"	ほしとまと				干しトマト	ほしとまと	Tomates secos					escritura kanji N3
+t|:G~jP|N`	うめぼし				梅干し	うめぼし	Umeboshi					escritura kanji N3
+"vja#]9w@IX"	生活				生活	せいかつ	Estilo de vida					kanji lectura N3
+y-w%tg;cFh	食生活				食生活	しょくせいかつ	Habitos alimenticios					kanji lectura N3
+GQRSS!m[^W	活動				活動	かつどう	Actividad					kanji lectura N3
+d9QRCO@_mj	活発（な）				活発（な）	かっぱつ（な）	Una persona muy energica					kanji lectura N3
+QikYIgq&&F	結婚活動				結婚活動	けっこんかつどう	Buscar matrimonio activamente					kanji lectura N3
+QCZ9Hxv.hB	活気				活気	かっき	Entorno con mucha actividad					kanji lectura N3
+QKotJGSJ/?	活用				活用	かつよう	Aprovechar					kanji lectura N3
+kOtem5w@h{	せいかつ				生活	せいかつ	Estilo de vida					escritura kanji N3
+q:>5NqnT1}	しょくせいかつ				食生活	しょくせいかつ	Habitos alimenticios					escritura kanji N3
+iGkj84wg_2	かつどう				活動	かつどう	Actividad					escritura kanji N3
+so)?c%-a[N	かっぱつ（な）				活発（な）	かっぱつ（な）	Una persona muy energica					escritura kanji N3
+D1$}aRB^G7	かっき				活気	かっき	Entorno con mucha actividad					escritura kanji N3
+"v^+==kU#/P"	けっこんかつどう				結婚活動	けっこんかつどう	Busqueda activa de matrimonio					escritura kanji N3
+d%8w4Rh,m:	かつよう				活用	かつよう	Aprovechar					escritura kanji N3
+m*U$]qL]D9	拾う				拾う	ひろう	Recoger					kanji lectura N3
+EcOklL!I[D	ゴミ拾い				ゴミ拾い	ごみひろい	Recolección de basura					kanji lectura N3
+"A]Lx#doF>C"	拾得物				拾得物	しゅうとくぶつ	Objetos perdidos, un objeto perdido/olvidado					kanji lectura N3
+u?,!PCJS>s	拾万円				拾万円	じゅうまんえん	¥100000 (escrito en el sistema especial)					kanji lectura N3
+p0t57uHUG@	捨てる				捨てる	すてる	Tirar, deshechar					kanji lectura N3
+tp0CaKLDaK	投げ捨て				投げ捨て	なげすて	Arrojar basura (al piso por ejemplo)					kanji lectura N3
+to_=5}%b~:	四捨五入				四捨五入	ししゃごにゅう	Redondeo de números					kanji lectura N3
+b2aj{He`k^	燃える				燃える	もえる	Quemarse					kanji lectura N3
+CX_.j,hg.[	燃やす				燃やす	もやす	Quemar					kanji lectura N3
+"BioFD#+fKP"	燃す				燃す	もす	Quemar (más literario)					kanji lectura N3
+AN0$lg^4,s	袋				袋	ふくろ	Bolsa					kanji lectura N3
+HKi_O@~4(x	手袋				手袋	てぶくろ	Guantes					kanji lectura N3
+LK_s[/en+c	紙袋				紙袋	かみぶくろ	Bolsa de papel					kanji lectura N3
+GyIg+4z-}s	末				末	すえ	Fin	Ojo: 末 != 未				kanji lectura N3
+c!f7qe5>7L	週末				週末	しゅうまつ	Fin de semana					kanji lectura N3
+v>LVf7y%iC	月末				月末	げつまつ	Último día del mes					kanji lectura N3
+J!H7va*@4x	ひろう				拾う	ひろう	Recoger					escritura kanji N3
+D7PhyR077x	ゴミひろい				ゴミ拾い	ゴミひろい	Recoleccion de basura					escritura kanji N3
+f&+H[jS<B|	じゅうまんえん				拾万円	じゅうまんえん	100000 yenes (escritura especial)					escritura kanji N3
+"G#<,n?Z[u5"	しゅうとくぶつ				拾得物	しゅうとくぶつ	Objetos perdidos, cualquier objeto perdido o encontrado					escritura kanji N3
+q>.AS<]!i/	すてる				捨てる	すてる	Tirar, deshechar					escritura kanji N3
+idqII9X-uA	なげすて				投げ捨て	なげすて	Arrojar basura (al piso por ejemplo)					escritura kanji N3
+KbXIkm]{_<	ししゃごにゅう				四捨五入	ししゃごにゅう	Redondeo de números					escritura kanji N3
+g;U6`.r@4U	もえる				燃える	もえる	Quemarse					escritura kanji N3
+wCK<r-}-E`	もやす				燃やす	もやす	Quemar					escritura kanji N3
+l!6dcYX}Rw	もす				燃す	もす	Quemar (mas literario)					escritura kanji N3
+"Cb#m;}$W2e"	ふくろ				袋	ふくろ	Bolsa					escritura kanji N3
+M/DOr=>qP=	てぶくろ				手袋	てぶくろ	Guantes					escritura kanji N3
+MQaVGv%X/7	かみぶくろ				紙袋	かみぶくろ	Bolsa de papel					escritura kanji N3
+gN9*Ixb9t?	足袋				足袋	たび	Calzado tabi					kanji lectura N3
+N};}>w%XYb	たび				足袋	たび	Calzado tabi					escritura kanji N3
+A^1ydn;|4&	…曜日				…曜日	ようび	Dia de la semana					kanji lectura N3
+pQ7wV88Ff!	すえ				末	すえ	Fin	Ojo: 末 != 未				escritura kanji N3
+nz(H3=^EUR	しゅうまつ				週末	しゅうまつ	Fin de semana					escritura kanji N3
+dSb%,]i$f-	げつまつ				月末	げつまつ	Último día del mes					escritura kanji N3
+"mnkk#:RFk."	こんげつ　の　すえ				今月の末	こんげつ　の　すえ	Fin de mes (29 ~ 31)					escritura kanji N3
+C*PUyr?|-o	燃料				燃料	ねんりょう	Combustible					kanji lectura N3
+d`GsGPRT9B	ねんりょう				燃料	ねんりょう	Combustible					escritura kanji N3
+H-;YY?Oa8<	ビニール袋				ビニール袋	ビニールぶくろ	Bolsa de plastico					kanji lectura N3
+Fks.Aje-kh	今月の末				今月の末	こんげつ　の　すえ	Fin de mes (29~31)					kanji lectura N3
+uSYyN!aSMG	期末				期末	きまつ	Fin de periodo (universidad, escuela, ambito empresarial)					kanji lectura N3
+mp_G[:B5{m	期[まつ]	き_			期末	きまつ	Fin de periodo (universidad, escuela, ambito empresarial)					escritura kanji N3
+KTp){ptEe!	末っ子				末っ子	すえっこ	El hijo/a mas joven					kanji lectura N3
+eg^JhaPKzP	すえっこ				末っ子	すえっこ	El hijo/a mas joven					escritura kanji N3
+Kpovg7dKkJ	年末				年末	ねんまつ	Fin de año (ultimos dias del año)					kanji lectura N3
+EF67Tu%tO{	ねんまつ				年末	ねんまつ	Fin de año (ultimos dias del año)					escritura kanji N3
+K4}4/?=30$	結末	けつ＿			結末	けつまつ	Desenlace, conclusion					kanji lectura N3
+o2}^*@2[S4	結[まつ]	けつ_			結末	けつまつ	Desenlace, conclusion					escritura kanji N3
+oNM9bK%JAz	翌朝				翌朝	よくちょう	La mañana siguiente (formal)					kanji lectura N3
+y-v&fScsJb	よくちょう				翌朝	よくちょう	La mañana siguiente (formal)					escritura kanji N3
+HnriT15FJR	翌日				翌日	よくじつ	Dia siguiente (formal)					kanji lectura N3
+xti@Sz_[!:	よくじつ				翌日	よくじつ	Dia siguiente (formal)					escritura kanji N3
+op/k<lsyV;	翌年				翌年	よくねん / よくとし	Año siguiente (formal)					kanji lectura N3
+Mz!JFk3[i1	よくとし				翌年	よくとし	Año siguiente (formal)					escritura kanji N3
+vGwu.~jtSK	昨晩				昨晩	さくばん	Anoche (mas formal que ゆうべ)					kanji lectura N3
+c`Tc]TPcVj	さくばん				昨晩	さくばん	Anoche (mas formal que ゆうべ)					escritura kanji N3
+y$mdwPSeC$	昨夜				昨夜	さくや　（o ゆうべ）	Anoche	La lectura ゆうべ es mas comun, さくや es mas formal / narrativo				kanji lectura N3
+isA6^BP[Zz	さくや				昨夜	さくや	Anoche	La lectura ゆうべ es mas comun, さくや es mas formal / narrativo				escritura kanji N3
+ij/-!h:E6~	昨年				昨年	さくねん	El año pasado (mas formal que 去年)					kanji lectura N3
+"Fp4c#R(jRi"	さくとし				昨年	さくとし	El año pasado (mas formal que 去年)					escritura kanji N3
+"qzFB?hs9>#"	風袋				風袋	ふうたい	Tara (peso de un envase sin contar su contenido)					kanji lectura N3
+H.fB[51*3%	ふうたい				風袋	ふうたい	Tara (peso de un envase sin contar su contenido)					escritura kanji N3
+F/J,kL})cB	昨日				昨日	きのう　/　さくじつ	Ayer	きのう lectura normal<br>さくじつ formal				kanji lectura N3
+J2i<lRVl`|	きのう				昨日	きのう	Ayer	きのう lectura normal<br>さくじつ formal				escritura kanji N3
+GYBR[%e4s(	さくじつ				昨日	さくじつ	Ayer	きのう lectura normal<br>さくじつ formal				escritura kanji N3
+jzK2ru^f<}	一昨日				一昨日	おととい / いっさくじつ	Anteayer	おととい normal<br>いっさくじつ formal				kanji lectura N3
+e2:zH@laZw	おととい				一昨日	おととい	Anteayer	おととい normal<br>いっさくじつ formal				escritura kanji N3
+Jn5gEDYC)^	いっさくじつ				一昨日	いっさくじつ	おととい normal<br>いっさくじつ formal					escritura kanji N3
+LI@J/(_?<6	一昨年				一昨年	おととし / いっさくねん	El ante año pasado	おととし normal<br>いっさくねん formal				kanji lectura N3
+ID~+ccp4|E	いっさくねん				一昨年	いっさくねん	El ante año pasado	おととし normal<br>いっさくねん formal				escritura kanji N3
+mydBka:8@f	おととし				一昨年	おととし	El ante año pasado	おととし normal<br>いっさくねん formal				escritura kanji N3
+o(|3Amn?(,	末子				末子	ばっし / まっし	El hijo menor (mas formal que すえっこ)					kanji lectura N3
+rMS_,5|f%3	ばっし　/　まっし				末子	ばっし　/　まっし	El hijo menor (mas formal que すえっこ)					escritura kanji N3
+h@=a~ZkepI	予定				予定	よてい	Planes					kanji lectura N3
+OG3U)]YT@R	よてい				予定	よてい	Planes					escritura kanji N3
+NXTmHlmYv8	天気予報				天気予報	てんきよほう	Pronóstico del clima					kanji lectura N3
+OSieznRI1V	てんきよ報	_ _ _ ほう			天気予報	てんきよほう	Pronóstico del clima					escritura kanji N3
+LGH)u<3/um	予習				予習	よしゅう	"
+Preparación para una lección&nbsp;"					kanji lectura N3
+tw114e0@^3	よしゅう				予習	よしゅう	"
+Preparación para una lección&nbsp;"					escritura kanji N3
+Nb~8ASb5.<	定年				定年	ていねん	Edad de jubilación&nbsp;					kanji lectura N3
+"z#}r{;=Syo"	ていねん				定年	ていねん	Edad de jubilación&nbsp;					escritura kanji N3
+j)d;]:{^&6	定か(な)				"
+定か(な)"	さだか(な)	Claro, seguro (en general va con negativos)	"彼の行き先は定かではない: ""Su destino es incierto"""				kanji lectura N3
+j59(cS/h[d	さだか(な)				定か(な)	さだか(な)	Claro, seguro (en general va con negativos)	"
+彼の行き先は定かではない: ""Su destino es incierto"""				escritura kanji N3
+C&i}9JpRwj	さだめる				定める	さだめる	Establecer, determinar	ルールを定める: establecer una regla				escritura kanji N3
+O[{F~7_Tx,	定め				定め	さだめ	Decisión/destino (narrativo, literario)					kanji lectura N3
+"NK##qkU|Ah"	定まらない				定まらない	さだまらない	"""No está decidido"", ""no está establecido"""	彼はなかなか仕事が定まらない				kanji lectura N3
+P+OhT,7v%X	さだまらない				定まらない	さだまらない	"
+""No está decidido"", ""no está establecido"""	彼はなかなか仕事が定まらない				escritura kanji N3
+AmTsz^]N1o	定規	_ぎ			定規	じょうぎ	Regla (para medir)	定規で線を引く				kanji lectura N3
+d]Ss>?E|h;	[じょう]ぎ				定規	じょうぎ	Regla (para medir)	"
+定規で線を引く"				escritura kanji N3
+"Ks[8{<jOo#"	用いる				用いる	もちいる	Utilizar	この機械は広く用いられている				kanji lectura N3
+pGIHWNj$fZ	もちいる				用いる	もちいる	Utilizar	この機械は広く用いられている				escritura kanji N3
+b;XSut2nPy	…用				…用	よう	Para uso de...	子供用のいす				kanji lectura N3
+lPz!v;:khi	…よう				…用	よう	Para uso de ...	子供用のいす				escritura kanji N3
+e&Z2Np`@9(	利用する				利用する	りようする	Aprovechar, hacer uso de...	無料サービルを利用する				kanji lectura N3
+ktpI>t2*4	りようする				利用する	りようする	Aprovechar, hacer uso de	無料サービルを利用する				escritura kanji N3
+mm0Vba)wJD	用事				用事	ようじ	Cosas que hacer					kanji lectura N3
+ii?}<Yj0RP	ようじ				用事	ようじ	Cosas que hacer					escritura kanji N3
+c(EFp*!?kT	大事（な）				大事（な）	だいじ	Importante					kanji lectura N3
+b=AGRScf=@	だいじ				大事	だいじ	Importante					escritura kanji N3
+qgKTve+h1*	原稿用紙				原稿用紙	げんこうようし	Papel japones cuadriculado					kanji lectura N3
+zAeKw}.?Y]	原稿[ようし]	"
+げんこう__"			原稿用紙	げんこうようし	Papel japones cuadriculado					escritura kanji N3
+D(wj8Ed/bq	事				事	こと	Cosa					kanji lectura N3
+"JTTWu,#n:}"	こと				事	こと	Cosa					escritura kanji N3
+r0EIO*fMyp	電気工事				電気工事	でんきこうじ	Instalaciones electricas					kanji lectura N3
+n5ZK::WaHh	でんきこうじ				電気工事	でんきこうじ	Instalaciones electricas					escritura kanji N3
+"NY#^$(CIq}"	習い事				習い事	ならいごと	Clases de algo					kanji lectura N3
+vTpifAP/=)	ならいごと				習い事	ならいごと	Clases de algo					escritura kanji N3
+stuVkL&Lzz	食事				食事	しょくじ	Comida (cena etc)					kanji lectura N3
+Bd.)sa5>J[	しょくじ				食事	しょくじ	Comida (cena etc)					escritura kanji N3
+"i03nrM#T2r"	好事家				好事家	こうずか	Persona con hobbies/gustos peculiares					kanji lectura N3
+h[&mi6Wqwn	こうずか				好事家	こうずか	Persona con hobbies/gustos peculiares					escritura kanji N3
+MA2Cm|8s;{	押す				押す	おす	Presionar / Empujar					kanji lectura N3
+tMQkyZb!!9	押さえる				押さえる	おさえる	Ejercer presion (sin que se mueva)					kanji lectura N3
+yf)1q94{;Q	おす				押す	おす	Presionar / Empujar					escritura kanji N3
+mD@*Q-_22(	おさえる				押さえる	おさえる	Ejercer presion (sin que se mueva)					escritura kanji N3
+MJ~s*t9|X%	押印				押印	おういん	Sellar					kanji lectura N3
+b<6k}WT8n3	おういん				押印	おういん	Sellar					escritura kanji N3
+ryt=p:EcJ!	引く				引く	ひく	Tirar de algo					kanji lectura N3
+Ef*QsYq(Jk	ひく				引く	ひく	Tirar de algo					escritura kanji N3
+DmUnm$ny)%	引ける				引ける	ひける	Retirarse, retraerse, acobardarse	腰が引ける: tirarse atras por miedo				kanji lectura N3
+"ru)%GAqg#V"	ひける				引ける	ひける	Retirarse, retraerse, acobardarse	腰が引ける: tirarse atras por miedo				escritura kanji N3
+r--h^^/`m&	強引				強引	ごういん	Forzado	強引に: a la fuerza<br>強引な: insistente, coercitivo				kanji lectura N3
+qFyA,*0xME	ごういん				強引	ごういん	Forzado	強引に: a la fuerza<br>強引な: insistente, coercitivo				escritura kanji N3
+O8Xk!3})$7	お金を引き出す				お金を引き出す	おかね　を　ひきだす	Retirar dinero					kanji lectura N3
+*Y_1mTE~`	引用する				引用する	いんようする	Citar (quote)					kanji lectura N3
+"q2^D#fY},f"	いんようする				引用する	いんようする	Citar (quote)					escritura kanji N3
+yLJCnAq~Ct	引火する				引火する	いんかする	Encender fuego, prender la mecha, prender un fosforo					kanji lectura N3
+FuLDt13Z)@	いんかする				引火する	いんかする	Encender fuego, prender la mecha, prender un fosforo					escritura kanji N3
+k%;1&vvQrO	消える				消える	きえる	Apagarse					kanji lectura N3
+r/vkEtvuL=	取る				取る	とる	Tomar					kanji lectura N3
+D%&nkWDkSf	とる				取る	とる	Tomar					escritura kanji N3
+K+f->!7C.J	取材				取材	しゅざい	Entrevista					kanji lectura N3
+p;tQJ>.Gr!	しゅざい				取材	しゅざい	Entrevista					escritura kanji N3
+p9%o;=XgCB	きえる				消える	きえる	Apagarse, desaparecer					escritura kanji N3
+jy(d1ZpQ?(	消す				消す	けす	Apagar					kanji lectura N3
+JPh0c&OH|l	けす				消す	けす	Apagar					escritura kanji N3
+m(oIxspAYK	消防車				消防車	しょうぼうしゃ	Camion de bomberos					kanji lectura N3
+QdoD)63B4B	[しょう]防車	_ぼうしゃ			消防車	しょうぼうしゃ	Camion de bomberos					escritura kanji N3
+I(Zt-D7ENM	取り消す				取り消す	とりけす	Cancelar, retirarse					kanji lectura N3
+j7XbTa/08t	とりけす				取り消す	とりけす	Cancelar, retirarse					escritura kanji N3
+ntJRCi-nV7	消しゴム				消しゴム	けしゴム	Goma de borrar					kanji lectura N3
+J=6GYjnNd	けしゴム				消しゴム	けしゴム	Goma de borrar					escritura kanji N3
+"pU`#tB9:HI"	消化				消化	しょうか	Digestion					kanji lectura N3
+QF=1pQyv&(	消火				消火	しょうか	Apagar incendio					kanji lectura N3
+"L~Z4?Rfkk#"	天ぷらは[しょうか]に悪い	てんぷらはしょうかにわるい			天ぷらは消化にわるい	てんぷらはしょうかにわるい	El tempura es malo para la digestion					escritura kanji N3
+evwa&~,lo1	戸				戸	と	Puerta tradicional japonesa					kanji lectura N3
+Cnh]&Fxg:_	と				戸	と	Puerta tradicional japonesa					escritura kanji N3
+M)z.E}FuZI	一戸建て				一戸建て	いっこだて	Casa de una sola puerta (muy comunes en algunas zonas urbanas)					kanji lectura N3
+jMl(y{K|xx	いっこだて				一戸建て	いっこだて	Casa de una sola puerta (muy comunes en algunas zonas urbanas)					escritura kanji N3
+PMg+:Vn7JP	戸外				戸外	こがい	Afuera de la casa / negocio / establecimiento					kanji lectura N3
+"mD{r#H>!_I"	こがい				戸外	こがい	Afuera de la casa / negocio / establecimiento					escritura kanji N3
+Jq.j~dL;Qv	門戸				門戸	もんこ	"Porton, entrada a la casa, ""las puertas"""	外国に門戸を開く: Abrir las puertas a paises extranjeros				kanji lectura N3
+"OCS[D#%Aex"	もんこ				門戸	もんこ	"Porton, la entrada a una casa, ""las puertas"""	外国に門戸を開く: Abrir las puertas a paises extranjeros				escritura kanji N3
+e<BGHV-NCD	井戸				井戸	いど	Pozo de agua					kanji lectura N3
+wxN(%m{RE	井[ど]	い＿			井戸	いど	Pozo de agua					escritura kanji N3
+mi0AvBo(oy	窓				窓	まど	Ventana					kanji lectura N3
+"J{bCWB$X#f"	まど				窓	まど	Ventana					escritura kanji N3
+"e[<;[Q3#>{"	窓グラス				窓グラス	まどグラス	Ventanal					kanji lectura N3
+"n7a-Q#[MUb"	まどグラス				窓グラス	まどグラス	Ventanal					escritura kanji N3
+h{u5sd$_B^	車窓				車窓	しゃそう	Ventanilla del tren / auto					kanji lectura N3
+I)Q,]W,0jM	しゃそう				車窓	しゃそう	Ventanilla del tren / auto					escritura kanji N3
+QA7`)-9}$5	同窓会				同窓会	どうそうかい	Asociacion de alumnos					kanji lectura N3
+GY3kaV{b37	どうそうかい				同窓会	どうそうかい	Asociacion de alumnos					escritura kanji N3
+Opp?.LaU%x	窓口				窓口	まどぐち	Ventanilla (oficinas, estaciones, etc)					kanji lectura N3
+Oo-rFGB2n.	まどぐち				窓口	まどぐち	Ventanilla (oficinas, estaciones, etc)					escritura kanji N3
+L!.ynVw3Db	~階				~階	かい	Piso ~					kanji lectura N3
+I0Yt>%5KO	２かい				2階	にかい	Piso 2					escritura kanji N3
+orQs;bEG%x	階段				階段	かいだん	Escaleras					kanji lectura N3
+F^$WpJ]u[q	かいだん				階段	かいだん	Escalera					escritura kanji N3
+h3J{V!G!]8	石段				石段	いしだん	Escaleras de piedra					kanji lectura N3
+JfFau+w%a9	いしだん				石段	いしだん	Escaleras de piedra					escritura kanji N3
+QF^>4S~<,F	手段				手段	しゅだん	Medios	目的のためには手段を選ばない: El fin justifica los medios				kanji lectura N3
+Mq5?y%xLQ_	しゅだん				手段	しゅだん	Medios	目的のためには手段を選ばない: El fin justifica los medios				escritura kanji N3
+edJ^JP5Szt	段階				段階	だんかい	Etapas, pasos					kanji lectura N3
+bV!,*e>&&K	だんかい				段階	だんかい	Etapas, pasos					escritura kanji N3
+NK]r0Q{PGw	植える				植える	うえる	Plantar					kanji lectura N3
+CUh!KZ2(&W	植物				植物	しょくぶつ	Vegetal					kanji lectura N3
+QK(`I;84G,	移植				移植	いしょく	Transplantar					kanji lectura N3
+l[3Y9dMo.w	うえる				植える	うえる	Plantar					escritura kanji N3
+yIUt.VkmC>	しょくぶつ				植物	しょくぶつ	Vegetal					escritura kanji N3
+M}!nA??fb&	移[しょく]	い_			移植	いしょく	Transplantar					escritura kanji N3
+J4.{B(B_gs	植わる				植わる	うわる	Ser plantado					kanji lectura N3
+PjyCsf=Tz!	うわる				植わる	うわる	Ser plantado					escritura kanji N3
+wD;dSc}9;.	植木				植木	うえき	Plantin					kanji lectura N3
+"PA#<6T8Q%["	葉				葉	は	Hoja					kanji lectura N3
+r!I@rR<A&g	言葉				言葉	ことば	Palabra					kanji lectura N3
+Kqss_]*vO^	イチョウの[は]				イチョウの葉	いちょうのは	Hojas de いちょう					escritura kanji N3
+hahqBZXp)(	ことば				言葉	ことば	Palabra					escritura kanji N3
+zMARcuH?v=	おちば				落ち葉	おちば	Hojas caidas					escritura kanji N3
+B[voW1BmKZ	落ち葉	お__			落ち葉	おちば	Hojas caidas					kanji lectura N3
+e%*Hf*m>$_	紅葉				紅葉	こうよう　/　もみじ	Hojas rojas de otoño					kanji lectura N3
+Lbt^h[3$RN	こうよう				紅葉	こうよう	Hojas rojas de otoño					escritura kanji N3
+QBGO?~b}/^	実る				実る	みのる	Dar frutos					kanji lectura N3
+I0I.DcE^Nc	トマトの実				トマトの実	トマトのみ	Tomate					kanji lectura N3
+F9aE!jWm2)	みのる				実る	みのる	Dar frutos					escritura kanji N3
+lLAB!uywxS	トマトの[み]				トマトの実	トマトのみ	Tomate					escritura kanji N3
+jaw/03y2L7	実現				実現	じつげん	Realizar	夢を実現させる				kanji lectura N3
+w/5yY&>]$E	[じつ]現				実現	じつげん	Realizar	夢を実現させる				escritura kanji N3
+"hf#G)HJ~57"	実家				実家	じっか	Casa de los padres					kanji lectura N3
+"sP&O#i35D,"	じっか				実家	じっか	Casa de los padres					escritura kanji N3
+l93WVPX4T+	実				実	み	Fruto					kanji lectura N3
+OQ`0y}XypL	み				実	み	Fruto					escritura kanji N3
+PUBT1eS)~E	実力				実力	じつりょく	Verdadero potencial					kanji lectura N3
+"jI>[OpV#pf"	じつりょく				実力	じつりょく	Verdadero potencial					escritura kanji N3
+mzMcZZ>$We	根元				根元	ねもと	Origen, las raices					kanji lectura N3
+cVf0(!0[3[	ねもと				根元	ねもと	Origen, las raices					escritura kanji N3
+jAqCaM%uBb	木の根				木の根	きのね	Raices de arbol					kanji lectura N3
+v1T>X7^]&4	木の[ね]				木の根	きのね	Raices de arbol					kanji lectura N3
+zClPDa>&jk	屋根				屋根	やね	Techo (exterior)					kanji lectura N3
+h%).:qj$4h	やね				屋根	やね	Techo (exterior)					escritura kanji N3
+j]c!j;ijB_	根本				根本	こんぽん	Desde lo mas profundo	考え方が根本から違う				kanji lectura N3
+IWlzG%;)1@	こんぽん				根本	こんぽん	Desde lo mas profundo	考え方が根本から違う				escritura kanji N3
+FUK;@E)[K]	大根				大根	だいこん	Nabo					kanji lectura N3
+,Y=>uPiyH	だいこん				大根	だいこん	Nabo					escritura kanji N3
+vZ0m2<X*u0	建つ				建つ	たつ	Ser edificado					kanji lectura N3
+wPfSvW=$/-	たつ				建つ	たつ	Ser edificado					escritura kanji N3
+scKNE2A7aP	建てる				建てる	たてる	Edificar					kanji lectura N3
+f^CI)zFO5D	たてる				建てる	たてる	Edificar					escritura kanji N3
+tB%nlyr2W!	建立				建立	こんりゅう	Construccion de templos / santuarios					kanji lectura N3
+He=`xim?yy	こんりゅう				建立	こんりゅう	Construccion de templos / santuarios					escritura kanji N3
+tocg~nO9w~	築く				築く	きずく	Construir	Para cosas que se construyen poco a poco / en el tiempo				kanji lectura N3
+r=4=,2l^)z	きずく				築く	きずく	Construir	Para cosas que se construyen poco a poco / en el tiempo				escritura kanji N3
+"C$(5HPm#)*"	改築する	かい＿			改築する	かいちくする	Remodelar o reconstruir					kanji lectura N3
+m;xmfeluti	改[ちく]する	かい＿			改築する	かいちくする	Remodelar o reconstruir					escritura kanji N3
+eH~(Xpb_MY	建築				建築	けんちく	Arquitectura					kanji lectura N3
+nGeGl&_Cfq	けんちく				建築	けんちく	Arquitectura					escritura kanji N3
+ci[h$a;,$<	新築				新築	しんちく	Recien construido					kanji lectura N3
+x*99qodj1!	しんちく				新築	しんちく	Recien construido					escritura kanji N3
+s~1szJ*>}A	築30年				築30年	ちくさんじゅうねん	30 años de construído					kanji lectura N3
+P26_ksOvO`	[ちく]30とし				築30年	ちくさんじゅうねん	30 años de construído					escritura kanji N3
+t*|cehU1z^	構える				構える	かまえる	Establecer, elegir, poner					kanji lectura N3
+J@v~c<c[>`	構う				構う	かまう	Establecerse					kanji lectura N3
+F[9[l85]4o	かまえる				構える	かまえる	Establecer, elegir, poner					escritura kanji N3
+OnsTL%awV7	かまう				構う	かまう	Establecerse					escritura kanji N3
+Onc.!Q~|a&	構成する				構成する	こうせいする	Estructurar, diagramar					kanji lectura N3
+IwPU5I{Np	[こう]成する	__せい			構成する	こうせいする	Estructurar, diagramar					escritura kanji N3
+yg`2qMUN3I	構内				構内	こうない	Dentro del recinto					kanji lectura N3
+r1w)yy;Hn,	こうない				構内	こうない	Dentro del recinto					escritura kanji N3
+Cv;_vx[XB?	構造				構造	こうぞう	Estructura (como esta construido)					kanji lectura N3
+bBOQq,g:0n	こうぞう				構造	こうぞう	Estructura (como esta construido)					escritura kanji N3
+"H=-|#?=J+}"	造る				造る	つくる	Construir, fabricar (cosas complejas o artificiales)					kanji lectura N3
+o&ZT,@:|j&	船を[つく]る				船を造る	ふねをつくる	Construir, fabricar (cosas complejas o artificiales)					escritura kanji N3
+IYjp1z-2vh	木造				木造	もくぞう	Hecho de madera					kanji lectura N3
+e+{o$n|-4|	もくぞう				木造	もくぞう	Hecho de madera					escritura kanji N3
+uo{REF.W[Q	造花				造花	ぞうか	Flores artificiales					escritura kanji N3
+xOyXCqSh)$	ぞうか				造花	ぞうか	Flores artificiales					escritura kanji N3
+w%0XHgc@6?	建造物				建造物	けんぞうぶつ	Edificacion					kanji lectura N3
+"xUxR0Tp#yg"	けんぞうぶつ				建造物	けんぞうぶつ	Edificacion					escritura kanji N3
+Ei~O8lKZ6)	造船				造船	ぞうせん	Astilleria					kanji lectura N3
+iv+@nI>]/<	ぞうせん				造船	ぞうせん	Astilleria					escritura kanji N3
+j6K6I0qVa.	設ける				設ける	もうける	Establecer	ルールを設ける				kanji lectura N3
+Lz+{HbA)kh	ルールを[もう.ける]				ルールを設ける	ルールをもうける	Establecer una regla					escritura kanji N3
+c9C4|;%lf6	設定				設定	せってい	Configuracion, settings					kanji lectura N3
+IoiYi],}GK	せってい				設定	せってい	Configuracion, settings					escritura kanji N3
+d:hJI;](}%	設計する				設計する	せっけいする	Diseñar, diagramar					kanji lectura N3
+,0SM^uYF`	[せっけい]する				設計する	せっけいする	Diseñar, diagramar					escritura kanji N3
+eo}9G_ff+*	設立				設立	せつりつ	Establecimiento, fundacion					kanji lectura N3
+ECV!W4+O-[	せつりつ				設立	せつりつ	Establecimiento, fundacion					escritura kanji N3
+"xa[#lzHeZ^"	建設				建設	けんせつ	Construccion					kanji lectura N3
+"O5Cb4N)/-#"	けんせつ				建設	けんせつ	Construccion					escritura kanji N3
+fjP`1}9,I{	柱				柱	はしら	Pilar, columna					kanji lectura N3
+kNyiei_U2q	はしら				柱	はしら	Pilar, columna					escritura kanji N3
+DK%@o,U&5:	電柱				電柱	でんちゅう	Poste de luz					kanji lectura N3
+tE9L_-]D{/	でんちゅう				電柱	でんちゅう	Poste de luz					escritura kanji N3
+I<&kgchik	大黒柱				大黒柱	だいこくばしら	El sosten de la casa					kanji lectura N3
+G2QB0LgO2*	だいこくばしら				大黒柱	だいこくばしら	El sosten de la casa					escritura kanji N3
+vYEOH;aM|g	金庫				金庫	きんこ	Caja fuerte					kanji lectura N3
+rm=koMJf}2	きんこ				金庫	きんこ	Caja fuerte					escritura kanji N3
+dze@CZAn2E	車庫				車庫	しゃこ	Garage (de la casa)					kanji lectura N3
+G[3k]rXrf(	しゃこ				車庫	しゃこ	Garage (de la casa)					escritura kanji N3
+nmYI[:a+6.	向く				向く	むく	Orientarse a...					kanji lectura N3
+t8D=wk(IIs	向かう				向かう	むかう	Dirigirse hacia...					kanji lectura N3
+o0hRc&WTs5	むく				向く	むく	Orientarse a...					escritura kanji N3
+s=UdvsUFV7	むかう				向かう	むかう	Dirigirse hacia...					escritura kanji N3
+"NW(j%pC#]N"	向ける				向ける	むける	Dirigir algo hacia...					kanji lectura N3
+imyU@:_hyl	むける				向ける	むける	Dirigir algo hacia...					escritura kanji N3
+GX/N38AfYy	向こう				向こう	むこう	El otro lado, mas alla de algo					kanji lectura N3
+oEhQpy,3B&	むこう				向こう	むこう	El otro lado, mas alla de algo					escritura kanji N3
+Dx,.2O;Jxj	向上心				向上心	こうじょうしん	Espiritu de autosuperacion					kanji lectura N3
+lS.h~(o?)V	こうじょうしん				向上心	こうじょうしん	Espiritu de autosuperacion					escritura kanji N3
+gX[4hG:+s<	方向				方向	ほうこう	Direccion, sentido, rumbo					kanji lectura N3
+fE.kAQ,|ai	ほうこう				方向	ほうこう	Direccion, sentido, rumbo					escritura kanji N3

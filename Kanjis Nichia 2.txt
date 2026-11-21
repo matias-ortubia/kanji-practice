@@ -1,0 +1,138 @@
+#separator:tab
+#html:true
+#guid column:1
+#tags column:13
+K_tN,2eAb9	熱い				熱い	あつい	Caliente					kanji N3
+qAhZD-B8o+	あつい				熱い	あつい	Caliente					kanji N3
+CVoNLIfDgE	熱				熱	ねつ	Fiebre					kanji N3
+"DEv=Ia3#&&"	ねつ				熱	ねつ	Fiebre					kanji N3
+Q[{RpO:9ID	熱心				熱心	ねっしん	Persona apasionada					kanji N3
+gU5QT@wEh.	ねっしん				熱心	ねっしん	Persona apasionada					kanji N3
+JV&3@v`@lR	高熱				高熱	こうねつ	Fiebre alta					kanji N3
+"G|i#l,c,O1"	こうねつ				高熱	こうねつ	Fiebre alta					kanji N3
+D_.EH[Rb`h	冷える				冷える	ひえる	Enfriarse, refrescar					kanji N3
+AM.T9}SJ8Z	ひえる				冷える	ひえる	Enfriarse, refrescar					kanji N3
+p@6vrye0&!	冷やす				冷やす	ひやす	Enfriar					kanji N3
+s>;&PKJjXF	ひやす				冷やす	ひやす	Enfriar					kanji N3
+KJ:HHa7LY|	冷める				冷める	さめる	Apagarse, enfriarse, dejar de estar caliente	Se suele usar con sentimientos				kanji N3
+IgxA2NN284	さめる				冷める	さめる	Apagarse, enfriarse, dejar de estar caliente	Se suele usar con sentimientos				kanji N3
+utHF^)[4HY	冷ます				冷ます	さます	Dejar enfriar					kanji N3
+y|_E*vjKu)	さます				冷ます	さます	Dejar enfriar					kanji N3
+xJt/Pw9hiK	冷たい				冷たい	つめたい	Frio al tacto					kanji N3
+"PaJl#J_Q>G"	つめたい				冷たい	つめたい	Frio al tacto					kanji N3
+q=no&NYtgs	冷やかす				冷やかす	ひやかす	Burlarse					kanji N3
+Q)HxJs.Bk}	ひやかす				冷やかす	ひやかす	Burlarse					kanji N3
+vLn5B!@xNu	冷凍する	＿とう			冷凍する	れいとうする	Congelar					kanji N3
+tD2a%83gkh	[れい]とう（する）				冷凍する	れいとうする	Congelar					kanji N3
+Qab7Z.5?ZF	お冷				お冷	おひや	Agua fria (en restaurantes), sake a temperatura ambiente					kanji N3
+nYUV^3=G$k	おひや				お冷	おひや	Agua fria (en restaurantes), sake a temperatura ambiente					kanji N3
+C+dn?q/kdv	温かい				温かい	あたたかい	Calido al tacto					kanji N3
+qiS?[lhC2`	あたたかい				温かい	あたたかい	Calido al tacto					kanji N3
+r1?psPqmH^	温める				温める	あたためる	Calentar					kanji N3
+ibC,|pe3qp	あたためる				温める	あたためる	Calentar					kanji N3
+uObV|$-~Z	体温計				体温計	たいおんけい	Termometro					kanji N3
+y(_[8K^T(/	たいおんけい				体温計	たいおんけい	Termometro					kanji N3
+q8pE)I`7/f	温度				温度	おんど	Temperatura					kanji N3
+GIiOjCxqUj	おんど				温度	おんど	Temperatura					kanji N3
+j,~kit-[DV	温い				温い	ぬるい	Algo que deberia estar frio o caliente pero esta tibio	Tiene connotacion negativa				kanji N3
+fj!OkU([}(	ぬるい				温い	ぬるい	Algo que deberia estar frio o caliente pero esta tibio	Tiene connotacion negativa				kanji N3
+"E9=72>b$#k"	温泉	＿せん			温泉	おんせん	Onsen					kanji N3
+lcl:0Uwj}}	[おん]せん				温泉	おんせん	Onsen					kanji N3
+P2yRfq)t%%	度				度	たび	Cada vez...	「日本へ行く度…」-&gt; Cada vez que voy a Japón（En general con experiencias personales）				kanji N3
+PbL9&R9$}B	たび　(No es el de 足袋)				度	たび	Cada vez...	「日本へ行く度…」-&gt; Cada vez que voy a Japón（En general con experiencias personales）				kanji N3
+jD$)N-@^D`	～度				～度	～ど	～grados (temperatura, angulos), veces	Diferencia con 回: 回 es algo que ocurre cotidianamente				kanji N3
+t=&:LC]+4^	～ど				～度	～ど	～grados (temperatura, angulos), veces	Diferencia con 回: 回 es algo que ocurre cotidianamente				kanji N3
+s^!e8OAi%T	支度				支度	したく	Preparacion					kanji N3
+PVA_pjK^/T	したく				支度	したく	Preparacion					kanji N3
+wG5A822Dik	法度				法度	はっと	Prohibido					kanji N3
+ed{Z;a=$wV	はっと				法度	はっと	Prohibido					kanji N3
+l4FW+`)u46	材料				材料	ざいりょう	Ingredientes					kanji N3
+kWpN7{Th?t	ざいりょう				材料	ざいりょう	Ingredientes					kanji N3
+MC87HFTrZ/	木材				木材	もくざい	Madera (con el fin de construir algo)					kanji N3
+ks(!C3MTd~	もくざい				木材	もくざい	Madera (con el fin de construir algo)					kanji N3
+MGH{lltv]U	素材	そ＿			素材	そざい	Materia prima					kanji N3
+K4`ncv3o>1	そ[ざい]				素材	そざい	Materia prima					kanji N3
+sk70?~hqA8	人材				人材	じんざい	Recursos humanos					kanji N3
+M4Sz6f$x5e	じんざい				人材	じんざい	Recursos humanos					kanji N3
+Cv&P&/,-3$	型				型	かた	Patron, modelo, secuencia de movimientos en artes marciales					kanji N3
+I&E3W(.@4|	かた				型	かた	Patron, modelo, secuencia de movimientos en artes marciales					kanji N3
+C!VbePB/Mz	型にはまる				型にはまる	かた	"""Que encaja perfecto con el molde""<br>""Encaja perfecto con lo que estamos buscando"""					kanji N3
+g&IpuhPWN8	典型的な	てん＿＿			典型的な	てんけいてき	Que calza con el estereotipo clasico de algo					kanji N3
+lhj^I8?jax	てんけいてき				典型的	てんけいてき	Que calza con el estereotipo clasico de algo					kanji N3
+d~eR_9%2Qc	模型	も＿			模型	もけい	Modelo, maqueta, modelo a escala					kanji N3
+"k>nP0g#8h5"	も[けい]				模型	もけい	Modelo, maqueta, modelo a escala					kanji N3
+"Mq]w^%&qp#"	焼ける				焼ける	やける	Asarse					kanji N3
+"fm2^U[R2A#"	やける				焼ける	やける	Asarse					kanji N3
+A$/VAb~N*s	焼く				焼く	やく	Asar					kanji N3
+r:!.F.~@xx	やく				焼く	やく	Asar					kanji N3
+oJdcj^kS2a	日焼け（する）				日焼けする	ひやけ	Quemarse por el sol					kanji N3
+wz^BB8_~%+	ひやけ（する）				日焼けする	ひやけ	Quemarse por el sol					kanji N3
+s/LV@cc`Vb	延焼する	えん＿			延焼する	えんしょう	Propagacion del fuego					kanji N3
+oM]]+m=3c4	えん[しょう]する				延焼する	えんしょう	Propagacion del fuego					kanji N3
+r`^+qEDNiF	目玉焼き				目玉焼き	めだまやき	Huevo frito					kanji N3
+P3jm%7t<7O	めだまやき				目玉焼き	めだまやき	Huevo frito					kanji N3
+d}MxxS/iw1	器				器	うつわ	Recipiente (se usa mas con expresiones)					kanji N3
+kT4BfeG!)I	うつわ				器	うつわ	Recipiente (se usa mas con expresiones)					kanji N3
+r1x6.uSyPu	食器				食器	しょっき	Utensilios para comer					kanji N3
+M`JFMp=I1J	しょっき				食器	しょっき	Utensilios para comer					kanji N3
+b7W$7kR;h,	容器	よう＿			容器	ようき	Recipiente, frasco, envase					kanji N3
+"p3?=,^)#20"	よう[き]				容器	ようき	Recipiente, frasco, envase					kanji N3
+"pLi#s,rR<`"	器用				器用	きよう	Habilidoso					kanji N3
+elQHc|KDgh	きよう				器用	きよう	Habilidoso					kanji N3
+h![Zs2<Y<$	卵				卵	たまご	Huevo					kanji N3
+Q1}[/oY.A+	たまご				卵	たまご	Huevo					kanji N3
+lX^xPl(aVw	産卵	さん＿			産卵	さんらん	Poner huevos					kanji N3
+L*:k$+.^2-	さん[らん]				産卵	さんらん	Poner huevos					kanji N3
+yLo6}tz1rv	卵白				卵白	らんぱく	Clara de huevo					kanji N3
+ts)QA}g~hG	らんぱく				卵白	らんぱく	Clara de huevo					kanji N3
+vqx/&3nZLJ	ヤギの乳				ヤギの乳	ちち	Leche de cabra					kanji N3
+DOFI`7:,D+	ヤギの[ちち]				ヤギの乳	ちち	Leche de cabra					kanji N3
+z_xv=L`Wu>	牛乳				牛乳	ぎゅうにゅう	Leche de vaca					kanji N3
+Qs:N$5Kvqb	ぎゅうにゅう				牛乳	ぎゅうにゅう	Leche de vaca					kanji N3
+"M2I#d>%<e!"	乳歯				乳歯	にゅうし	Dientes de leche					kanji N3
+xvE_Roy~jB	にゅうし				乳歯	にゅうし	Dientes de leche					kanji N3
+B;YRB{`$&~	乳飲み子				乳飲み子	ちのみご	Bebé lactante					kanji N3
+t?TKC,k``W	ちのみご				乳飲み子	ちのみご	Bebé lactante					kanji N3
+v4W(~;C-]m	哺乳類	ほ＿るい			哺乳類	ほにゅうるい	Mamifero					kanji N3
+x{G9LT03t=	ほ[にゅう]るい				哺乳類	ほにゅうるい	Mamifero					kanji N3
+"s8%ZB`m(#n"	小麦粉				小麦粉	こむぎこ	Harina de trigo					kanji N3
+m|v,Qyxh.l	こむぎこ				小麦粉	こむぎこ	Harina de trigo					kanji N3
+ye=OCcznlE	粉薬				粉薬	こなくすり	Polvos medicinales					kanji N3
+Ezglk[V98i	こなくすり				粉薬	こなくすり	Polvos medicinales					kanji N3
+yp0D,3%C9J	粉雪				粉雪	こなゆき	Nieve muy fina					kanji N3
+d[Ijxe4[+C	こなゆき				粉雪	こなゆき	Nieve muy fina					kanji N3
+ccgc>*I)sR	粉末スープ				粉末スープ	ふんまつ	Sopa en polvo					kanji N3
+y!Mg:={!0H	ふんまつスープ				粉末スープ	ふんまつ	Sopa en polvo					kanji N3
+t7[R8M~05P	花粉				花粉	かふん	Polen					kanji N3
+eX*ffA16ZV	かふん				花粉	かふん	Polen					kanji N3
+iK[<Fiv.E9	塩				塩	しお	Sal					kanji N3
+"kI#Qt;A,Q$"	塩味				塩味	しおあじ/えんみ	Gusto salado	「塩味のラーメン」				kanji N3
+x2xXB,^LRo	しおあじ				塩味	しおあじ	Gusto salado					kanji N3
+h4m)%0_.|`	塩素	_そ			塩素	えんそ	Cloro					kanji N3
+dhZ(l2d;HG	[えん]そ				塩素	えんそ	Cloro					kanji N3
+Pa|bf]<E5	塩分				塩分	えんぶん	Cantidad de sal	塩分が高い／低い				kanji N3
+"jEd-kz~p#5"	えんぶん				塩分	えんぶん	Cantidad de sal					kanji N3
+POxJ.[y%Uz	菜の花				菜の花	なのはな	Flores de canola					kanji N3
+b;cqC>i7:Z	なのはな				菜の花	なのはな	Flores de canola					kanji N3
+L<auH5*nN&	野菜				野菜	やさい	Vegetal					kanji N3
+"/#>CVq[1Z"	やさい				野菜	やさい	Vegetal					kanji N3
+(57wX92=A	生野菜				生野菜	なまやさい	Vegetales crudos					kanji N3
+Ppd]j3KM`V	なまやさい				生野菜	なまやさい	Vegetales crudos					kanji N3
+jT)@!o?H1T	菜園				菜園	さいえん	Huerto					kanji N3
+k/UCSd|xic	さいえん				菜園	さいえん	Huerto					kanji N3
+m`DnFz,[7)	果たす				果たす	はたす	Cumplir, concretar, llevar a cabo	「何があっても彼女との約束を果たす」				kanji N3
+d&qw;cMC.i	はたす				果たす	はたす	Cumplir, concretar, llevar a cabo					kanji N3
+ItzDb%nYcX	疲れ果てた	つか…			疲れ果てた	つかれはてた	Estoy (completamente) agotado	"果てる en si significa ""llegar a su fin"""				kanji N3
+H!NI0:]EZk	つかれ[はてた]				疲れ果てた	つかれはてた	Estoy (completamente) agotado					kanji N3
+s+t:gwopvz	果て				果て	はて	- El máximo de algo<div>- El fin de algo (世界の果て-&gt;El fin del mundo (como lugar o fin literal)</div>					kanji N3
+sZ.S?dG%cy	はて				果て	はて	"
+
+- El máximo de algo<div>- El fin de algo (世界の果て-&gt;El fin del mundo (como lugar o fin literal)</div>"					kanji N3
+D-NgyP_/rr	成果	せい_			成果	せいか	"Resultado, logro, ""frutos del esfuerzo"""					kanji N3
+Ej2.z_H(mv	せい[か]				成果	せいか	"Resultado, logro, ""frutos del esfuerzo"""					kanji N3
+NKGe~TE.4}	果実				果実	かじつ	Fruto (literal)					kanji N3
+n%Q;]|+C;B	かじつ				果実	かじつ	Fruto (literal)					kanji N3
+L*}PeWzuQQ	果物				果物	くだもの	Fruta					kanji N3
+eptVG}C!:!	くだもの				果物	くだもの	Fruta					kanji N3
+s2f0W2S$7M	果実酒				果実酒	かじつしゅ	Licor de frutas					kanji N3
+"l.$VeuL#q*"	かじつしゅ				果実酒	かじつしゅ	Licor de frutas					kanji N3

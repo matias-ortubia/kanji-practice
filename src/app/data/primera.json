@@ -1,0 +1,7162 @@
+[
+  {
+    "id": "lWMH:u(F2f",
+    "front": {
+      "phrase": "起きる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起きる",
+      "reading": "おきる",
+      "meaning": "Despertarse, ocurrir",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "nTuT@;jTmS",
+    "front": {
+      "phrase": "起こる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起こる",
+      "reading": "おこる",
+      "meaning": "Ocurrir, suceder",
+      "notes": "地震が起こった"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GdvbT?$kiH",
+    "front": {
+      "phrase": "起こす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起こす",
+      "reading": "おこす",
+      "meaning": "Despertar (a alguien)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "p&Kr.FHV`#",
+    "front": {
+      "phrase": "早起きする",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "早起きする",
+      "reading": "はやおきする",
+      "meaning": "Despertarse temprano",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "CwAb1;wrzi",
+    "front": {
+      "phrase": "再起動する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "再起動する",
+      "reading": "さいきどうする",
+      "meaning": "Reiniciar (PC, dispositivos, etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "sFHa*t+)<q",
+    "front": {
+      "phrase": "寝る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝る",
+      "reading": "ねる",
+      "meaning": "Dormir, o irse a dormir",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "yk7EVt`[|:",
+    "front": {
+      "phrase": "寝かす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝かす",
+      "reading": "ねかす",
+      "meaning": "Hacer dormir a alguien",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "m,I.Ef;V};",
+    "front": {
+      "phrase": "昼寝",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昼寝",
+      "reading": "ひるね",
+      "meaning": "Siesta",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "t~z1[2Bj`W",
+    "front": {
+      "phrase": "寝室",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝室",
+      "reading": "しんしつ",
+      "meaning": "Dormitorio",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "wEKFsE2XQ1",
+    "front": {
+      "phrase": "寝台車",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝台車",
+      "reading": "しんだいしゃ",
+      "meaning": "Vagon de tren con cama",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Bx{H|nisNh",
+    "front": {
+      "phrase": "日光浴",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "日光浴",
+      "reading": "にっこうよく",
+      "meaning": "Tomar el sol",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "zp+tXj2t:n",
+    "front": {
+      "phrase": "浴びる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴びる",
+      "reading": "あびる",
+      "meaning": "Bañarse de algo, estar expuesto a algo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Oy}}(exI;*",
+    "front": {
+      "phrase": "浴室",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴室",
+      "reading": "よくしつ",
+      "meaning": "Cuarto de baño",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "I`?~--K7kN",
+    "front": {
+      "phrase": "海水浴",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "海水浴",
+      "reading": "かいすいよく",
+      "meaning": "Nadar en el mar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ge`s20hELf",
+    "front": {
+      "phrase": "お湯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "お湯",
+      "reading": "おゆ",
+      "meaning": "Agua caliente",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "wd.&]0vPLk",
+    "front": {
+      "phrase": "湯舟",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "湯舟",
+      "reading": "ゆぶね",
+      "meaning": "Bañera",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "PM!0J{q.s6",
+    "front": {
+      "phrase": "熱湯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "熱湯",
+      "reading": "ねっとう",
+      "meaning": "Agua hirviendo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "PqiFm?Jto!",
+    "front": {
+      "phrase": "浴衣",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GEF}<ZjN_/",
+    "front": {
+      "phrase": "おこる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起こる",
+      "reading": "おこる",
+      "meaning": "Ocurrir, suceder",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C%,7IYLE]d",
+    "front": {
+      "phrase": "おきる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起きる",
+      "reading": "おきる",
+      "meaning": "Despertarse, levantarse",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "BFxSV.UUmK",
+    "front": {
+      "phrase": "おこす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "起こす",
+      "reading": "おこす",
+      "meaning": "Despertar a alguien",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "z(>k]g?Sb.",
+    "front": {
+      "phrase": "はやおき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "早起き",
+      "reading": "はやおき",
+      "meaning": "Levantarse temprano",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "lEja>><ru<",
+    "front": {
+      "phrase": "さいきどう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "再起動",
+      "reading": "さいきどう",
+      "meaning": "Reiniciar un dispositivo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "ee:taL@<xe",
+    "front": {
+      "phrase": "ねる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝る",
+      "reading": "ねる",
+      "meaning": "Dormir, irse a dormir",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dRr@%UVuE7",
+    "front": {
+      "phrase": "ねかす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝かす",
+      "reading": "ねかす",
+      "meaning": "Hacer dormir a alguien",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cek)I/!+A+",
+    "front": {
+      "phrase": "ひるね",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昼寝",
+      "reading": "ひるね",
+      "meaning": "Siesta",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "rZ8#XX.6+:",
+    "front": {
+      "phrase": "しんしつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝室",
+      "reading": "しんしつ",
+      "meaning": "Dormitorio",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "OXb~Y$C2Uh",
+    "front": {
+      "phrase": "しんだいしゃ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "寝台車",
+      "reading": "しんだいしゃ",
+      "meaning": "Vagon de tren con cama",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "tz|*#)rSyX",
+    "front": {
+      "phrase": "あびる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴びる",
+      "reading": "あびる",
+      "meaning": "Bañarse, estar expuesto a algo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mMO1:7&&?c",
+    "front": {
+      "phrase": "にっこうよく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "日光浴",
+      "reading": "にっこうよく",
+      "meaning": "Tomar el sol",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c}![!!L>?m",
+    "front": {
+      "phrase": "みずあび",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "水浴び",
+      "reading": "みずあび",
+      "meaning": "Meterse al agua",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "p>8:EoDA<",
+    "front": {
+      "phrase": "よくしつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴室",
+      "reading": "よくしつ",
+      "meaning": "Cuarto de baño",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "gB]vK{F1Pg",
+    "front": {
+      "phrase": "かいすいよく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "海水浴",
+      "reading": "かいすいよく",
+      "meaning": "Nadar en el mar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "x)$w6E!Q=?",
+    "front": {
+      "phrase": "おゆ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "お湯",
+      "reading": "おゆ",
+      "meaning": "Agua caliente",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ad#-]Gxtfg",
+    "front": {
+      "phrase": "ゆぶね",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "湯舟",
+      "reading": "ゆぶね",
+      "meaning": "Bañera",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "OKTjSUS&CZ",
+    "front": {
+      "phrase": "ねっとう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "熱湯",
+      "reading": "ねっとう",
+      "meaning": "Agua hirviendo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "x~i!R}NXh8",
+    "front": {
+      "phrase": "ゆかた",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "Yukata",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NN0m2=yC59",
+    "front": {
+      "phrase": "&nbsp;洗う",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗う",
+      "reading": "あらう",
+      "meaning": "Lavar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "wSW_S/A}=&",
+    "front": {
+      "phrase": "あらう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗う",
+      "reading": "あらう",
+      "meaning": "Lavar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "oVlK~Drv*c",
+    "front": {
+      "phrase": "洗剤",
+      "furigana": "＿ざい",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗剤",
+      "reading": "せんざい",
+      "meaning": "Detergente",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "O|&6jmSJgc",
+    "front": {
+      "phrase": "せんざい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗剤",
+      "reading": "せんざい",
+      "meaning": "Detergente",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "J3E4[S/k1t",
+    "front": {
+      "phrase": "水洗",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "水洗",
+      "reading": "すいせん",
+      "meaning": "Lavar con agua",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ImumL^L,bi",
+    "front": {
+      "phrase": "すいせん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "水洗",
+      "reading": "すいせん",
+      "meaning": "Lavar con agua",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "fW3N`BUrH5",
+    "front": {
+      "phrase": "洗面所",
+      "furigana": "＿めん＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗面所",
+      "reading": "せんめんじょ",
+      "meaning": "Cuarto para lavarse las manos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "IXVWUFiexk",
+    "front": {
+      "phrase": "お手洗い",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "お手洗い",
+      "reading": "おてあらい",
+      "meaning": "Baño",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "AwwoEp-?+c",
+    "front": {
+      "phrase": "てあらい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "手洗い",
+      "reading": "てあらい",
+      "meaning": "Lavarse las manos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "A%#d~WFw})",
+    "front": {
+      "phrase": "洗濯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗濯",
+      "reading": "せんたく",
+      "meaning": "Lavar la ropa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "kPov,w%u$o",
+    "front": {
+      "phrase": "洗濯物",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗濯物",
+      "reading": "せんたくもの",
+      "meaning": "Ropa lavada o para lavar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "neennm-`pX",
+    "front": {
+      "phrase": "干す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干す",
+      "reading": "ほす",
+      "meaning": "Secar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "N-|XKN@6pQ",
+    "front": {
+      "phrase": "若干名",
+      "furigana": "じゃっ_ _",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "若干名",
+      "reading": "じゃっかんめい",
+      "meaning": "Pocas personas",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ee:xq/5IyX",
+    "front": {
+      "phrase": "干渉",
+      "furigana": "_しょう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干渉",
+      "reading": "かんしょう",
+      "meaning": "Interferir",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GCIr/U7c^u",
+    "front": {
+      "phrase": "干物",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干物",
+      "reading": "ひもの",
+      "meaning": "Pescado seco",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ND7AIYN-^!",
+    "front": {
+      "phrase": "干しトマト",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干しトマト",
+      "reading": "ほしとまと",
+      "meaning": "Tomates secos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "vJ4_qc.us]",
+    "front": {
+      "phrase": "梅干し",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "梅干し",
+      "reading": "うめぼし",
+      "meaning": "Umeboshi",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "c+E9Y~CC]>",
+    "front": {
+      "phrase": "せんたく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗濯",
+      "reading": "せんたく",
+      "meaning": "Lavar la ropa",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "n}S{rP!Qjw",
+    "front": {
+      "phrase": "せんたくもの",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "洗濯物",
+      "reading": "せんたくもの",
+      "meaning": "Ropa lavada o para lavar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "p@aW.Hl&wn",
+    "front": {
+      "phrase": "ほす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干す",
+      "reading": "ほす",
+      "meaning": "Secar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c65BQO+%P3",
+    "front": {
+      "phrase": "じゃっかんめい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "若干名",
+      "reading": "じゃっかんめい",
+      "meaning": "Pocas personas",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "j6x8n<.7Pe",
+    "front": {
+      "phrase": "[かん]渉",
+      "furigana": "＿しょう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干渉",
+      "reading": "かんしょう",
+      "meaning": "Interferir",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "wzm60+!IRT",
+    "front": {
+      "phrase": "ひもの",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干物",
+      "reading": "ひもの",
+      "meaning": "Pescado seco",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "P|(^#@bD^3",
+    "front": {
+      "phrase": "ほしとまと",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "干しトマト",
+      "reading": "ほしとまと",
+      "meaning": "Tomates secos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "t|:G~jP|N`",
+    "front": {
+      "phrase": "うめぼし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "梅干し",
+      "reading": "うめぼし",
+      "meaning": "Umeboshi",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "vja#]9w@IX",
+    "front": {
+      "phrase": "生活",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "生活",
+      "reading": "せいかつ",
+      "meaning": "Estilo de vida",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "y-w%tg;cFh",
+    "front": {
+      "phrase": "食生活",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "食生活",
+      "reading": "しょくせいかつ",
+      "meaning": "Habitos alimenticios",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GQRSS!m[^W",
+    "front": {
+      "phrase": "活動",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活動",
+      "reading": "かつどう",
+      "meaning": "Actividad",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "d9QRCO@_mj",
+    "front": {
+      "phrase": "活発（な）",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活発（な）",
+      "reading": "かっぱつ（な）",
+      "meaning": "Una persona muy energica",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QikYIgq&&F",
+    "front": {
+      "phrase": "結婚活動",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "結婚活動",
+      "reading": "けっこんかつどう",
+      "meaning": "Buscar matrimonio activamente",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QCZ9Hxv.hB",
+    "front": {
+      "phrase": "活気",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活気",
+      "reading": "かっき",
+      "meaning": "Entorno con mucha actividad",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QKotJGSJ/?",
+    "front": {
+      "phrase": "活用",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活用",
+      "reading": "かつよう",
+      "meaning": "Aprovechar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "kOtem5w@h{",
+    "front": {
+      "phrase": "せいかつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "生活",
+      "reading": "せいかつ",
+      "meaning": "Estilo de vida",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "q:>5NqnT1}",
+    "front": {
+      "phrase": "しょくせいかつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "食生活",
+      "reading": "しょくせいかつ",
+      "meaning": "Habitos alimenticios",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "iGkj84wg_2",
+    "front": {
+      "phrase": "かつどう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活動",
+      "reading": "かつどう",
+      "meaning": "Actividad",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "so)?c%-a[N",
+    "front": {
+      "phrase": "かっぱつ（な）",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活発（な）",
+      "reading": "かっぱつ（な）",
+      "meaning": "Una persona muy energica",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "D1$}aRB^G7",
+    "front": {
+      "phrase": "かっき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活気",
+      "reading": "かっき",
+      "meaning": "Entorno con mucha actividad",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "v^+==kU#/P",
+    "front": {
+      "phrase": "けっこんかつどう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "結婚活動",
+      "reading": "けっこんかつどう",
+      "meaning": "Busqueda activa de matrimonio",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "d%8w4Rh,m:",
+    "front": {
+      "phrase": "かつよう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "活用",
+      "reading": "かつよう",
+      "meaning": "Aprovechar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "m*U$]qL]D9",
+    "front": {
+      "phrase": "拾う",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾う",
+      "reading": "ひろう",
+      "meaning": "Recoger",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "EcOklL!I[D",
+    "front": {
+      "phrase": "ゴミ拾い",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "ゴミ拾い",
+      "reading": "ごみひろい",
+      "meaning": "Recolección de basura",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "A]Lx#doF>C",
+    "front": {
+      "phrase": "拾得物",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾得物",
+      "reading": "しゅうとくぶつ",
+      "meaning": "Objetos perdidos, un objeto perdido/olvidado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "u?,!PCJS>s",
+    "front": {
+      "phrase": "拾万円",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾万円",
+      "reading": "じゅうまんえん",
+      "meaning": "¥100000 (escrito en el sistema especial)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "p0t57uHUG@",
+    "front": {
+      "phrase": "捨てる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "捨てる",
+      "reading": "すてる",
+      "meaning": "Tirar, deshechar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "tp0CaKLDaK",
+    "front": {
+      "phrase": "投げ捨て",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "投げ捨て",
+      "reading": "なげすて",
+      "meaning": "Arrojar basura (al piso por ejemplo)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "to_=5}%b~:",
+    "front": {
+      "phrase": "四捨五入",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "四捨五入",
+      "reading": "ししゃごにゅう",
+      "meaning": "Redondeo de números",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "b2aj{He`k^",
+    "front": {
+      "phrase": "燃える",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃える",
+      "reading": "もえる",
+      "meaning": "Quemarse",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "CX_.j,hg.[",
+    "front": {
+      "phrase": "燃やす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃やす",
+      "reading": "もやす",
+      "meaning": "Quemar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "BioFD#+fKP",
+    "front": {
+      "phrase": "燃す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃す",
+      "reading": "もす",
+      "meaning": "Quemar (más literario)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "AN0$lg^4,s",
+    "front": {
+      "phrase": "袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "袋",
+      "reading": "ふくろ",
+      "meaning": "Bolsa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "HKi_O@~4(x",
+    "front": {
+      "phrase": "手袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "手袋",
+      "reading": "てぶくろ",
+      "meaning": "Guantes",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "LK_s[/en+c",
+    "front": {
+      "phrase": "紙袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "紙袋",
+      "reading": "かみぶくろ",
+      "meaning": "Bolsa de papel",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GyIg+4z-}s",
+    "front": {
+      "phrase": "末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末",
+      "reading": "すえ",
+      "meaning": "Fin",
+      "notes": "Ojo: 末 != 未"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "c!f7qe5>7L",
+    "front": {
+      "phrase": "週末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "Fin de semana",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "v>LVf7y%iC",
+    "front": {
+      "phrase": "月末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "月末",
+      "reading": "げつまつ",
+      "meaning": "Último día del mes",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "J!H7va*@4x",
+    "front": {
+      "phrase": "ひろう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾う",
+      "reading": "ひろう",
+      "meaning": "Recoger",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "D7PhyR077x",
+    "front": {
+      "phrase": "ゴミひろい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "ゴミ拾い",
+      "reading": "ゴミひろい",
+      "meaning": "Recoleccion de basura",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "f&+H[jS<B|",
+    "front": {
+      "phrase": "じゅうまんえん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾万円",
+      "reading": "じゅうまんえん",
+      "meaning": "100000 yenes (escritura especial)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "G#<,n?Z[u5",
+    "front": {
+      "phrase": "しゅうとくぶつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "拾得物",
+      "reading": "しゅうとくぶつ",
+      "meaning": "Objetos perdidos, cualquier objeto perdido o encontrado",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "q>.AS<]!i/",
+    "front": {
+      "phrase": "すてる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "捨てる",
+      "reading": "すてる",
+      "meaning": "Tirar, deshechar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "idqII9X-uA",
+    "front": {
+      "phrase": "なげすて",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "投げ捨て",
+      "reading": "なげすて",
+      "meaning": "Arrojar basura (al piso por ejemplo)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "KbXIkm]{_<",
+    "front": {
+      "phrase": "ししゃごにゅう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "四捨五入",
+      "reading": "ししゃごにゅう",
+      "meaning": "Redondeo de números",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "g;U6`.r@4U",
+    "front": {
+      "phrase": "もえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃える",
+      "reading": "もえる",
+      "meaning": "Quemarse",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "wCK<r-}-E`",
+    "front": {
+      "phrase": "もやす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃やす",
+      "reading": "もやす",
+      "meaning": "Quemar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "l!6dcYX}Rw",
+    "front": {
+      "phrase": "もす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃す",
+      "reading": "もす",
+      "meaning": "Quemar (mas literario)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cb#m;}$W2e",
+    "front": {
+      "phrase": "ふくろ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "袋",
+      "reading": "ふくろ",
+      "meaning": "Bolsa",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "M/DOr=>qP=",
+    "front": {
+      "phrase": "てぶくろ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "手袋",
+      "reading": "てぶくろ",
+      "meaning": "Guantes",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "MQaVGv%X/7",
+    "front": {
+      "phrase": "かみぶくろ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "紙袋",
+      "reading": "かみぶくろ",
+      "meaning": "Bolsa de papel",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "gN9*Ixb9t?",
+    "front": {
+      "phrase": "足袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "足袋",
+      "reading": "たび",
+      "meaning": "Calzado tabi",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "N};}>w%XYb",
+    "front": {
+      "phrase": "たび",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "足袋",
+      "reading": "たび",
+      "meaning": "Calzado tabi",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "A^1ydn;|4&",
+    "front": {
+      "phrase": "…曜日",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "…曜日",
+      "reading": "ようび",
+      "meaning": "Dia de la semana",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "pQ7wV88Ff!",
+    "front": {
+      "phrase": "すえ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末",
+      "reading": "すえ",
+      "meaning": "Fin",
+      "notes": "Ojo: 末 != 未"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "nz(H3=^EUR",
+    "front": {
+      "phrase": "しゅうまつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "Fin de semana",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dSb%,]i$f-",
+    "front": {
+      "phrase": "げつまつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "月末",
+      "reading": "げつまつ",
+      "meaning": "Último día del mes",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mnkk#:RFk.",
+    "front": {
+      "phrase": "こんげつ　の　すえ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "今月の末",
+      "reading": "こんげつ　の　すえ",
+      "meaning": "Fin de mes (29 ~ 31)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C*PUyr?|-o",
+    "front": {
+      "phrase": "燃料",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "Combustible",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "d`GsGPRT9B",
+    "front": {
+      "phrase": "ねんりょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "Combustible",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "H-;YY?Oa8<",
+    "front": {
+      "phrase": "ビニール袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "ビニール袋",
+      "reading": "ビニールぶくろ",
+      "meaning": "Bolsa de plastico",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Fks.Aje-kh",
+    "front": {
+      "phrase": "今月の末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "今月の末",
+      "reading": "こんげつ　の　すえ",
+      "meaning": "Fin de mes (29~31)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "uSYyN!aSMG",
+    "front": {
+      "phrase": "期末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "期末",
+      "reading": "きまつ",
+      "meaning": "Fin de periodo (universidad, escuela, ambito empresarial)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "mp_G[:B5{m",
+    "front": {
+      "phrase": "期[まつ]",
+      "furigana": "き_",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "期末",
+      "reading": "きまつ",
+      "meaning": "Fin de periodo (universidad, escuela, ambito empresarial)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "KTp){ptEe!",
+    "front": {
+      "phrase": "末っ子",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末っ子",
+      "reading": "すえっこ",
+      "meaning": "El hijo/a mas joven",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "eg^JhaPKzP",
+    "front": {
+      "phrase": "すえっこ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末っ子",
+      "reading": "すえっこ",
+      "meaning": "El hijo/a mas joven",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Kpovg7dKkJ",
+    "front": {
+      "phrase": "年末",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "年末",
+      "reading": "ねんまつ",
+      "meaning": "Fin de año (ultimos dias del año)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "EF67Tu%tO{",
+    "front": {
+      "phrase": "ねんまつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "年末",
+      "reading": "ねんまつ",
+      "meaning": "Fin de año (ultimos dias del año)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K4}4/?=30$",
+    "front": {
+      "phrase": "結末",
+      "furigana": "けつ＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "結末",
+      "reading": "けつまつ",
+      "meaning": "Desenlace, conclusion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "o2}^*@2[S4",
+    "front": {
+      "phrase": "結[まつ]",
+      "furigana": "けつ_",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "結末",
+      "reading": "けつまつ",
+      "meaning": "Desenlace, conclusion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "oNM9bK%JAz",
+    "front": {
+      "phrase": "翌朝",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌朝",
+      "reading": "よくちょう",
+      "meaning": "La mañana siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "y-v&fScsJb",
+    "front": {
+      "phrase": "よくちょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌朝",
+      "reading": "よくちょう",
+      "meaning": "La mañana siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "HnriT15FJR",
+    "front": {
+      "phrase": "翌日",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌日",
+      "reading": "よくじつ",
+      "meaning": "Dia siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "xti@Sz_[!:",
+    "front": {
+      "phrase": "よくじつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌日",
+      "reading": "よくじつ",
+      "meaning": "Dia siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "op/k<lsyV;",
+    "front": {
+      "phrase": "翌年",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌年",
+      "reading": "よくねん / よくとし",
+      "meaning": "Año siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Mz!JFk3[i1",
+    "front": {
+      "phrase": "よくとし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "翌年",
+      "reading": "よくとし",
+      "meaning": "Año siguiente (formal)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "vGwu.~jtSK",
+    "front": {
+      "phrase": "昨晩",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨晩",
+      "reading": "さくばん",
+      "meaning": "Anoche (mas formal que ゆうべ)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "c`Tc]TPcVj",
+    "front": {
+      "phrase": "さくばん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨晩",
+      "reading": "さくばん",
+      "meaning": "Anoche (mas formal que ゆうべ)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "y$mdwPSeC$",
+    "front": {
+      "phrase": "昨夜",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨夜",
+      "reading": "さくや　（o ゆうべ）",
+      "meaning": "Anoche",
+      "notes": "La lectura ゆうべ es mas comun, さくや es mas formal / narrativo"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "isA6^BP[Zz",
+    "front": {
+      "phrase": "さくや",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨夜",
+      "reading": "さくや",
+      "meaning": "Anoche",
+      "notes": "La lectura ゆうべ es mas comun, さくや es mas formal / narrativo"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "ij/-!h:E6~",
+    "front": {
+      "phrase": "昨年",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨年",
+      "reading": "さくねん",
+      "meaning": "El año pasado (mas formal que 去年)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Fp4c#R(jRi",
+    "front": {
+      "phrase": "さくとし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨年",
+      "reading": "さくとし",
+      "meaning": "El año pasado (mas formal que 去年)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "qzFB?hs9>#",
+    "front": {
+      "phrase": "風袋",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "風袋",
+      "reading": "ふうたい",
+      "meaning": "Tara (peso de un envase sin contar su contenido)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "H.fB[51*3%",
+    "front": {
+      "phrase": "ふうたい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "風袋",
+      "reading": "ふうたい",
+      "meaning": "Tara (peso de un envase sin contar su contenido)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "F/J,kL})cB",
+    "front": {
+      "phrase": "昨日",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨日",
+      "reading": "きのう　/　さくじつ",
+      "meaning": "Ayer",
+      "notes": "きのう lectura normal<br>さくじつ formal"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "J2i<lRVl`|",
+    "front": {
+      "phrase": "きのう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨日",
+      "reading": "きのう",
+      "meaning": "Ayer",
+      "notes": "きのう lectura normal<br>さくじつ formal"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "GYBR[%e4s(",
+    "front": {
+      "phrase": "さくじつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "昨日",
+      "reading": "さくじつ",
+      "meaning": "Ayer",
+      "notes": "きのう lectura normal<br>さくじつ formal"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jzK2ru^f<}",
+    "front": {
+      "phrase": "一昨日",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨日",
+      "reading": "おととい / いっさくじつ",
+      "meaning": "Anteayer",
+      "notes": "おととい normal<br>いっさくじつ formal"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "e2:zH@laZw",
+    "front": {
+      "phrase": "おととい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨日",
+      "reading": "おととい",
+      "meaning": "Anteayer",
+      "notes": "おととい normal<br>いっさくじつ formal"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Jn5gEDYC)^",
+    "front": {
+      "phrase": "いっさくじつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨日",
+      "reading": "いっさくじつ",
+      "meaning": "おととい normal<br>いっさくじつ formal",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "LI@J/(_?<6",
+    "front": {
+      "phrase": "一昨年",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨年",
+      "reading": "おととし / いっさくねん",
+      "meaning": "El ante año pasado",
+      "notes": "おととし normal<br>いっさくねん formal"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ID~+ccp4|E",
+    "front": {
+      "phrase": "いっさくねん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨年",
+      "reading": "いっさくねん",
+      "meaning": "El ante año pasado",
+      "notes": "おととし normal<br>いっさくねん formal"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mydBka:8@f",
+    "front": {
+      "phrase": "おととし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一昨年",
+      "reading": "おととし",
+      "meaning": "El ante año pasado",
+      "notes": "おととし normal<br>いっさくねん formal"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "o(|3Amn?(,",
+    "front": {
+      "phrase": "末子",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末子",
+      "reading": "ばっし / まっし",
+      "meaning": "El hijo menor (mas formal que すえっこ)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "rMS_,5|f%3",
+    "front": {
+      "phrase": "ばっし　/　まっし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "末子",
+      "reading": "ばっし　/　まっし",
+      "meaning": "El hijo menor (mas formal que すえっこ)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "h@=a~ZkepI",
+    "front": {
+      "phrase": "予定",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "予定",
+      "reading": "よてい",
+      "meaning": "Planes",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "OG3U)]YT@R",
+    "front": {
+      "phrase": "よてい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "予定",
+      "reading": "よてい",
+      "meaning": "Planes",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NXTmHlmYv8",
+    "front": {
+      "phrase": "天気予報",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "天気予報",
+      "reading": "てんきよほう",
+      "meaning": "Pronóstico del clima",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "OSieznRI1V",
+    "front": {
+      "phrase": "てんきよ報",
+      "furigana": "_ _ _ ほう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "天気予報",
+      "reading": "てんきよほう",
+      "meaning": "Pronóstico del clima",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "LGH)u<3/um",
+    "front": {
+      "phrase": "予習",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "予習",
+      "reading": "よしゅう",
+      "meaning": "Preparación para una lección&nbsp;",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "tw114e0@^3",
+    "front": {
+      "phrase": "よしゅう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "予習",
+      "reading": "よしゅう",
+      "meaning": "Preparación para una lección&nbsp;",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Nb~8ASb5.<",
+    "front": {
+      "phrase": "定年",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定年",
+      "reading": "ていねん",
+      "meaning": "Edad de jubilación&nbsp;",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "z#}r{;=Syo",
+    "front": {
+      "phrase": "ていねん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定年",
+      "reading": "ていねん",
+      "meaning": "Edad de jubilación&nbsp;",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "j)d;]:{^&6",
+    "front": {
+      "phrase": "定か(な)",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定か(な)",
+      "reading": "さだか(な)",
+      "meaning": "Claro, seguro (en general va con negativos)",
+      "notes": "彼の行き先は定かではない: \"Su destino es incierto\""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "j59(cS/h[d",
+    "front": {
+      "phrase": "さだか(な)",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定か(な)",
+      "reading": "さだか(な)",
+      "meaning": "Claro, seguro (en general va con negativos)",
+      "notes": "彼の行き先は定かではない: \"Su destino es incierto\""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C&i}9JpRwj",
+    "front": {
+      "phrase": "さだめる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定める",
+      "reading": "さだめる",
+      "meaning": "Establecer, determinar",
+      "notes": "ルールを定める: establecer una regla"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O[{F~7_Tx,",
+    "front": {
+      "phrase": "定め",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定め",
+      "reading": "さだめ",
+      "meaning": "Decisión/destino (narrativo, literario)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "NK##qkU|Ah",
+    "front": {
+      "phrase": "定まらない",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定まらない",
+      "reading": "さだまらない",
+      "meaning": "\"No está decidido\", \"no está establecido\"",
+      "notes": "彼はなかなか仕事が定まらない"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "P+OhT,7v%X",
+    "front": {
+      "phrase": "さだまらない",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定まらない",
+      "reading": "さだまらない",
+      "meaning": "\"No está decidido\", \"no está establecido\"",
+      "notes": "彼はなかなか仕事が定まらない"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "AmTsz^]N1o",
+    "front": {
+      "phrase": "定規",
+      "furigana": "_ぎ",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定規",
+      "reading": "じょうぎ",
+      "meaning": "Regla (para medir)",
+      "notes": "定規で線を引く"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "d]Ss>?E|h;",
+    "front": {
+      "phrase": "[じょう]ぎ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "定規",
+      "reading": "じょうぎ",
+      "meaning": "Regla (para medir)",
+      "notes": "定規で線を引く"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ks[8{<jOo#",
+    "front": {
+      "phrase": "用いる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "用いる",
+      "reading": "もちいる",
+      "meaning": "Utilizar",
+      "notes": "この機械は広く用いられている"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "pGIHWNj$fZ",
+    "front": {
+      "phrase": "もちいる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "用いる",
+      "reading": "もちいる",
+      "meaning": "Utilizar",
+      "notes": "この機械は広く用いられている"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "b;XSut2nPy",
+    "front": {
+      "phrase": "…用",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "…用",
+      "reading": "よう",
+      "meaning": "Para uso de...",
+      "notes": "子供用のいす"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "lPz!v;:khi",
+    "front": {
+      "phrase": "…よう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "…用",
+      "reading": "よう",
+      "meaning": "Para uso de ...",
+      "notes": "子供用のいす"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e&Z2Np`@9(",
+    "front": {
+      "phrase": "利用する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "利用する",
+      "reading": "りようする",
+      "meaning": "Aprovechar, hacer uso de...",
+      "notes": "無料サービルを利用する"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ktpI>t2*4",
+    "front": {
+      "phrase": "りようする",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "利用する",
+      "reading": "りようする",
+      "meaning": "Aprovechar, hacer uso de",
+      "notes": "無料サービルを利用する"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mm0Vba)wJD",
+    "front": {
+      "phrase": "用事",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "用事",
+      "reading": "ようじ",
+      "meaning": "Cosas que hacer",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ii?}<Yj0RP",
+    "front": {
+      "phrase": "ようじ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "用事",
+      "reading": "ようじ",
+      "meaning": "Cosas que hacer",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c(EFp*!?kT",
+    "front": {
+      "phrase": "大事（な）",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大事（な）",
+      "reading": "だいじ",
+      "meaning": "Importante",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "b=AGRScf=@",
+    "front": {
+      "phrase": "だいじ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大事",
+      "reading": "だいじ",
+      "meaning": "Importante",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "qgKTve+h1*",
+    "front": {
+      "phrase": "原稿用紙",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "原稿用紙",
+      "reading": "げんこうようし",
+      "meaning": "Papel japones cuadriculado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "zAeKw}.?Y]",
+    "front": {
+      "phrase": "原稿[ようし]",
+      "furigana": "げんこう__",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "原稿用紙",
+      "reading": "げんこうようし",
+      "meaning": "Papel japones cuadriculado",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "D(wj8Ed/bq",
+    "front": {
+      "phrase": "事",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "事",
+      "reading": "こと",
+      "meaning": "Cosa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "JTTWu,#n:}",
+    "front": {
+      "phrase": "こと",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "事",
+      "reading": "こと",
+      "meaning": "Cosa",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "r0EIO*fMyp",
+    "front": {
+      "phrase": "電気工事",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "電気工事",
+      "reading": "でんきこうじ",
+      "meaning": "Instalaciones electricas",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "n5ZK::WaHh",
+    "front": {
+      "phrase": "でんきこうじ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "電気工事",
+      "reading": "でんきこうじ",
+      "meaning": "Instalaciones electricas",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NY#^$(CIq}",
+    "front": {
+      "phrase": "習い事",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "習い事",
+      "reading": "ならいごと",
+      "meaning": "Clases de algo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "vTpifAP/=)",
+    "front": {
+      "phrase": "ならいごと",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "習い事",
+      "reading": "ならいごと",
+      "meaning": "Clases de algo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "stuVkL&Lzz",
+    "front": {
+      "phrase": "食事",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "食事",
+      "reading": "しょくじ",
+      "meaning": "Comida (cena etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Bd.)sa5>J[",
+    "front": {
+      "phrase": "しょくじ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "食事",
+      "reading": "しょくじ",
+      "meaning": "Comida (cena etc)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "i03nrM#T2r",
+    "front": {
+      "phrase": "好事家",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "好事家",
+      "reading": "こうずか",
+      "meaning": "Persona con hobbies/gustos peculiares",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "h[&mi6Wqwn",
+    "front": {
+      "phrase": "こうずか",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "好事家",
+      "reading": "こうずか",
+      "meaning": "Persona con hobbies/gustos peculiares",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "MA2Cm|8s;{",
+    "front": {
+      "phrase": "押す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押す",
+      "reading": "おす",
+      "meaning": "Presionar / Empujar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "tMQkyZb!!9",
+    "front": {
+      "phrase": "押さえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押さえる",
+      "reading": "おさえる",
+      "meaning": "Ejercer presion (sin que se mueva)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "yf)1q94{;Q",
+    "front": {
+      "phrase": "おす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押す",
+      "reading": "おす",
+      "meaning": "Presionar / Empujar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mD@*Q-_22(",
+    "front": {
+      "phrase": "おさえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押さえる",
+      "reading": "おさえる",
+      "meaning": "Ejercer presion (sin que se mueva)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "MJ~s*t9|X%",
+    "front": {
+      "phrase": "押印",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押印",
+      "reading": "おういん",
+      "meaning": "Sellar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "b<6k}WT8n3",
+    "front": {
+      "phrase": "おういん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "押印",
+      "reading": "おういん",
+      "meaning": "Sellar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "ryt=p:EcJ!",
+    "front": {
+      "phrase": "引く",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引く",
+      "reading": "ひく",
+      "meaning": "Tirar de algo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ef*QsYq(Jk",
+    "front": {
+      "phrase": "ひく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引く",
+      "reading": "ひく",
+      "meaning": "Tirar de algo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "DmUnm$ny)%",
+    "front": {
+      "phrase": "引ける",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引ける",
+      "reading": "ひける",
+      "meaning": "Retirarse, retraerse, acobardarse",
+      "notes": "腰が引ける: tirarse atras por miedo"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ru)%GAqg#V",
+    "front": {
+      "phrase": "ひける",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引ける",
+      "reading": "ひける",
+      "meaning": "Retirarse, retraerse, acobardarse",
+      "notes": "腰が引ける: tirarse atras por miedo"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "r--h^^/`m&",
+    "front": {
+      "phrase": "強引",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "強引",
+      "reading": "ごういん",
+      "meaning": "Forzado",
+      "notes": "強引に: a la fuerza<br>強引な: insistente, coercitivo"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "qFyA,*0xME",
+    "front": {
+      "phrase": "ごういん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "強引",
+      "reading": "ごういん",
+      "meaning": "Forzado",
+      "notes": "強引に: a la fuerza<br>強引な: insistente, coercitivo"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O8Xk!3})$7",
+    "front": {
+      "phrase": "お金を引き出す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "お金を引き出す",
+      "reading": "おかね　を　ひきだす",
+      "meaning": "Retirar dinero",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "*Y_1mTE~`",
+    "front": {
+      "phrase": "引用する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引用する",
+      "reading": "いんようする",
+      "meaning": "Citar (quote)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "q2^D#fY},f",
+    "front": {
+      "phrase": "いんようする",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引用する",
+      "reading": "いんようする",
+      "meaning": "Citar (quote)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "yLJCnAq~Ct",
+    "front": {
+      "phrase": "引火する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引火する",
+      "reading": "いんかする",
+      "meaning": "Encender fuego, prender la mecha, prender un fosforo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "FuLDt13Z)@",
+    "front": {
+      "phrase": "いんかする",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "引火する",
+      "reading": "いんかする",
+      "meaning": "Encender fuego, prender la mecha, prender un fosforo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "k%;1&vvQrO",
+    "front": {
+      "phrase": "消える",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消える",
+      "reading": "きえる",
+      "meaning": "Apagarse",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "r/vkEtvuL=",
+    "front": {
+      "phrase": "取る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取る",
+      "reading": "とる",
+      "meaning": "Tomar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "D%&nkWDkSf",
+    "front": {
+      "phrase": "とる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取る",
+      "reading": "とる",
+      "meaning": "Tomar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K+f->!7C.J",
+    "front": {
+      "phrase": "取材",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取材",
+      "reading": "しゅざい",
+      "meaning": "Entrevista",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "p;tQJ>.Gr!",
+    "front": {
+      "phrase": "しゅざい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取材",
+      "reading": "しゅざい",
+      "meaning": "Entrevista",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "p9%o;=XgCB",
+    "front": {
+      "phrase": "きえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消える",
+      "reading": "きえる",
+      "meaning": "Apagarse, desaparecer",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jy(d1ZpQ?(",
+    "front": {
+      "phrase": "消す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消す",
+      "reading": "けす",
+      "meaning": "Apagar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "JPh0c&OH|l",
+    "front": {
+      "phrase": "けす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消す",
+      "reading": "けす",
+      "meaning": "Apagar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "m(oIxspAYK",
+    "front": {
+      "phrase": "消防車",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消防車",
+      "reading": "しょうぼうしゃ",
+      "meaning": "Camion de bomberos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QdoD)63B4B",
+    "front": {
+      "phrase": "[しょう]防車",
+      "furigana": "_ぼうしゃ",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消防車",
+      "reading": "しょうぼうしゃ",
+      "meaning": "Camion de bomberos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "I(Zt-D7ENM",
+    "front": {
+      "phrase": "取り消す",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取り消す",
+      "reading": "とりけす",
+      "meaning": "Cancelar, retirarse",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "j7XbTa/08t",
+    "front": {
+      "phrase": "とりけす",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "取り消す",
+      "reading": "とりけす",
+      "meaning": "Cancelar, retirarse",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "ntJRCi-nV7",
+    "front": {
+      "phrase": "消しゴム",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "Goma de borrar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "J=6GYjnNd",
+    "front": {
+      "phrase": "けしゴム",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "Goma de borrar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "pU`#tB9:HI",
+    "front": {
+      "phrase": "消化",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消化",
+      "reading": "しょうか",
+      "meaning": "Digestion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QF=1pQyv&(",
+    "front": {
+      "phrase": "消火",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "消火",
+      "reading": "しょうか",
+      "meaning": "Apagar incendio",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "L~Z4?Rfkk#",
+    "front": {
+      "phrase": "天ぷらは[しょうか]に悪い",
+      "furigana": "てんぷらはしょうかにわるい",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "天ぷらは消化にわるい",
+      "reading": "てんぷらはしょうかにわるい",
+      "meaning": "El tempura es malo para la digestion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "evwa&~,lo1",
+    "front": {
+      "phrase": "戸",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "戸",
+      "reading": "と",
+      "meaning": "Puerta tradicional japonesa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cnh]&Fxg:_",
+    "front": {
+      "phrase": "と",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "戸",
+      "reading": "と",
+      "meaning": "Puerta tradicional japonesa",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "M)z.E}FuZI",
+    "front": {
+      "phrase": "一戸建て",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一戸建て",
+      "reading": "いっこだて",
+      "meaning": "Casa de una sola puerta (muy comunes en algunas zonas urbanas)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "jMl(y{K|xx",
+    "front": {
+      "phrase": "いっこだて",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "一戸建て",
+      "reading": "いっこだて",
+      "meaning": "Casa de una sola puerta (muy comunes en algunas zonas urbanas)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "PMg+:Vn7JP",
+    "front": {
+      "phrase": "戸外",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "戸外",
+      "reading": "こがい",
+      "meaning": "Afuera de la casa / negocio / establecimiento",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "mD{r#H>!_I",
+    "front": {
+      "phrase": "こがい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "戸外",
+      "reading": "こがい",
+      "meaning": "Afuera de la casa / negocio / establecimiento",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Jq.j~dL;Qv",
+    "front": {
+      "phrase": "門戸",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "門戸",
+      "reading": "もんこ",
+      "meaning": "Porton, entrada a la casa, \"las puertas\"",
+      "notes": "外国に門戸を開く: Abrir las puertas a paises extranjeros"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "OCS[D#%Aex",
+    "front": {
+      "phrase": "もんこ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "門戸",
+      "reading": "もんこ",
+      "meaning": "Porton, la entrada a una casa, \"las puertas\"",
+      "notes": "外国に門戸を開く: Abrir las puertas a paises extranjeros"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e<BGHV-NCD",
+    "front": {
+      "phrase": "井戸",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "井戸",
+      "reading": "いど",
+      "meaning": "Pozo de agua",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "wxN(%m{RE",
+    "front": {
+      "phrase": "井[ど]",
+      "furigana": "い＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "井戸",
+      "reading": "いど",
+      "meaning": "Pozo de agua",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mi0AvBo(oy",
+    "front": {
+      "phrase": "窓",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓",
+      "reading": "まど",
+      "meaning": "Ventana",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "J{bCWB$X#f",
+    "front": {
+      "phrase": "まど",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓",
+      "reading": "まど",
+      "meaning": "Ventana",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e[<;[Q3#>{",
+    "front": {
+      "phrase": "窓グラス",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓グラス",
+      "reading": "まどグラス",
+      "meaning": "Ventanal",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "n7a-Q#[MUb",
+    "front": {
+      "phrase": "まどグラス",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓グラス",
+      "reading": "まどグラス",
+      "meaning": "Ventanal",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "h{u5sd$_B^",
+    "front": {
+      "phrase": "車窓",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "車窓",
+      "reading": "しゃそう",
+      "meaning": "Ventanilla del tren / auto",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "I)Q,]W,0jM",
+    "front": {
+      "phrase": "しゃそう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "車窓",
+      "reading": "しゃそう",
+      "meaning": "Ventanilla del tren / auto",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "QA7`)-9}$5",
+    "front": {
+      "phrase": "同窓会",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "同窓会",
+      "reading": "どうそうかい",
+      "meaning": "Asociacion de alumnos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "GY3kaV{b37",
+    "front": {
+      "phrase": "どうそうかい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "同窓会",
+      "reading": "どうそうかい",
+      "meaning": "Asociacion de alumnos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Opp?.LaU%x",
+    "front": {
+      "phrase": "窓口",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓口",
+      "reading": "まどぐち",
+      "meaning": "Ventanilla (oficinas, estaciones, etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Oo-rFGB2n.",
+    "front": {
+      "phrase": "まどぐち",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "窓口",
+      "reading": "まどぐち",
+      "meaning": "Ventanilla (oficinas, estaciones, etc)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L!.ynVw3Db",
+    "front": {
+      "phrase": "~階",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "~階",
+      "reading": "かい",
+      "meaning": "Piso ~",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "I0Yt>%5KO",
+    "front": {
+      "phrase": "２かい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "2階",
+      "reading": "にかい",
+      "meaning": "Piso 2",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "orQs;bEG%x",
+    "front": {
+      "phrase": "階段",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "階段",
+      "reading": "かいだん",
+      "meaning": "Escaleras",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "F^$WpJ]u[q",
+    "front": {
+      "phrase": "かいだん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "階段",
+      "reading": "かいだん",
+      "meaning": "Escalera",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "h3J{V!G!]8",
+    "front": {
+      "phrase": "石段",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "石段",
+      "reading": "いしだん",
+      "meaning": "Escaleras de piedra",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "JfFau+w%a9",
+    "front": {
+      "phrase": "いしだん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "石段",
+      "reading": "いしだん",
+      "meaning": "Escaleras de piedra",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "QF^>4S~<,F",
+    "front": {
+      "phrase": "手段",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "手段",
+      "reading": "しゅだん",
+      "meaning": "Medios",
+      "notes": "目的のためには手段を選ばない: El fin justifica los medios"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Mq5?y%xLQ_",
+    "front": {
+      "phrase": "しゅだん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "手段",
+      "reading": "しゅだん",
+      "meaning": "Medios",
+      "notes": "目的のためには手段を選ばない: El fin justifica los medios"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "edJ^JP5Szt",
+    "front": {
+      "phrase": "段階",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "段階",
+      "reading": "だんかい",
+      "meaning": "Etapas, pasos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "bV!,*e>&&K",
+    "front": {
+      "phrase": "だんかい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "段階",
+      "reading": "だんかい",
+      "meaning": "Etapas, pasos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NK]r0Q{PGw",
+    "front": {
+      "phrase": "植える",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植える",
+      "reading": "うえる",
+      "meaning": "Plantar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "CUh!KZ2(&W",
+    "front": {
+      "phrase": "植物",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "Vegetal",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "QK(`I;84G,",
+    "front": {
+      "phrase": "移植",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "移植",
+      "reading": "いしょく",
+      "meaning": "Transplantar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "l[3Y9dMo.w",
+    "front": {
+      "phrase": "うえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植える",
+      "reading": "うえる",
+      "meaning": "Plantar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "yIUt.VkmC>",
+    "front": {
+      "phrase": "しょくぶつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "Vegetal",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "M}!nA??fb&",
+    "front": {
+      "phrase": "移[しょく]",
+      "furigana": "い_",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "移植",
+      "reading": "いしょく",
+      "meaning": "Transplantar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "J4.{B(B_gs",
+    "front": {
+      "phrase": "植わる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植わる",
+      "reading": "うわる",
+      "meaning": "Ser plantado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "PjyCsf=Tz!",
+    "front": {
+      "phrase": "うわる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植わる",
+      "reading": "うわる",
+      "meaning": "Ser plantado",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "wD;dSc}9;.",
+    "front": {
+      "phrase": "植木",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "植木",
+      "reading": "うえき",
+      "meaning": "Plantin",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "PA#<6T8Q%[",
+    "front": {
+      "phrase": "葉",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "葉",
+      "reading": "は",
+      "meaning": "Hoja",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "r!I@rR<A&g",
+    "front": {
+      "phrase": "言葉",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "言葉",
+      "reading": "ことば",
+      "meaning": "Palabra",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Kqss_]*vO^",
+    "front": {
+      "phrase": "イチョウの[は]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "イチョウの葉",
+      "reading": "いちょうのは",
+      "meaning": "Hojas de いちょう",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "hahqBZXp)(",
+    "front": {
+      "phrase": "ことば",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "言葉",
+      "reading": "ことば",
+      "meaning": "Palabra",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "zMARcuH?v=",
+    "front": {
+      "phrase": "おちば",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "落ち葉",
+      "reading": "おちば",
+      "meaning": "Hojas caidas",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "B[voW1BmKZ",
+    "front": {
+      "phrase": "落ち葉",
+      "furigana": "お__",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "落ち葉",
+      "reading": "おちば",
+      "meaning": "Hojas caidas",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "e%*Hf*m>$_",
+    "front": {
+      "phrase": "紅葉",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "紅葉",
+      "reading": "こうよう　/　もみじ",
+      "meaning": "Hojas rojas de otoño",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Lbt^h[3$RN",
+    "front": {
+      "phrase": "こうよう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "紅葉",
+      "reading": "こうよう",
+      "meaning": "Hojas rojas de otoño",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "QBGO?~b}/^",
+    "front": {
+      "phrase": "実る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実る",
+      "reading": "みのる",
+      "meaning": "Dar frutos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "I0I.DcE^Nc",
+    "front": {
+      "phrase": "トマトの実",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "トマトの実",
+      "reading": "トマトのみ",
+      "meaning": "Tomate",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "F9aE!jWm2)",
+    "front": {
+      "phrase": "みのる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実る",
+      "reading": "みのる",
+      "meaning": "Dar frutos",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "lLAB!uywxS",
+    "front": {
+      "phrase": "トマトの[み]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "トマトの実",
+      "reading": "トマトのみ",
+      "meaning": "Tomate",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jaw/03y2L7",
+    "front": {
+      "phrase": "実現",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実現",
+      "reading": "じつげん",
+      "meaning": "Realizar",
+      "notes": "夢を実現させる"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "w/5yY&>]$E",
+    "front": {
+      "phrase": "[じつ]現",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実現",
+      "reading": "じつげん",
+      "meaning": "Realizar",
+      "notes": "夢を実現させる"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "hf#G)HJ~57",
+    "front": {
+      "phrase": "実家",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実家",
+      "reading": "じっか",
+      "meaning": "Casa de los padres",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "sP&O#i35D,",
+    "front": {
+      "phrase": "じっか",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実家",
+      "reading": "じっか",
+      "meaning": "Casa de los padres",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "l93WVPX4T+",
+    "front": {
+      "phrase": "実",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実",
+      "reading": "み",
+      "meaning": "Fruto",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "OQ`0y}XypL",
+    "front": {
+      "phrase": "み",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実",
+      "reading": "み",
+      "meaning": "Fruto",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "PUBT1eS)~E",
+    "front": {
+      "phrase": "実力",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実力",
+      "reading": "じつりょく",
+      "meaning": "Verdadero potencial",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "jI>[OpV#pf",
+    "front": {
+      "phrase": "じつりょく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "実力",
+      "reading": "じつりょく",
+      "meaning": "Verdadero potencial",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mzMcZZ>$We",
+    "front": {
+      "phrase": "根元",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "根元",
+      "reading": "ねもと",
+      "meaning": "Origen, las raices",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "cVf0(!0[3[",
+    "front": {
+      "phrase": "ねもと",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "根元",
+      "reading": "ねもと",
+      "meaning": "Origen, las raices",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jAqCaM%uBb",
+    "front": {
+      "phrase": "木の根",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "木の根",
+      "reading": "きのね",
+      "meaning": "Raices de arbol",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "v1T>X7^]&4",
+    "front": {
+      "phrase": "木の[ね]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "木の根",
+      "reading": "きのね",
+      "meaning": "Raices de arbol",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "zClPDa>&jk",
+    "front": {
+      "phrase": "屋根",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "屋根",
+      "reading": "やね",
+      "meaning": "Techo (exterior)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "h%).:qj$4h",
+    "front": {
+      "phrase": "やね",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "屋根",
+      "reading": "やね",
+      "meaning": "Techo (exterior)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "j]c!j;ijB_",
+    "front": {
+      "phrase": "根本",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "根本",
+      "reading": "こんぽん",
+      "meaning": "Desde lo mas profundo",
+      "notes": "考え方が根本から違う"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "IWlzG%;)1@",
+    "front": {
+      "phrase": "こんぽん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "根本",
+      "reading": "こんぽん",
+      "meaning": "Desde lo mas profundo",
+      "notes": "考え方が根本から違う"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "FUK;@E)[K]",
+    "front": {
+      "phrase": "大根",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大根",
+      "reading": "だいこん",
+      "meaning": "Nabo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": ",Y=>uPiyH",
+    "front": {
+      "phrase": "だいこん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大根",
+      "reading": "だいこん",
+      "meaning": "Nabo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "vZ0m2<X*u0",
+    "front": {
+      "phrase": "建つ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建つ",
+      "reading": "たつ",
+      "meaning": "Ser edificado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "wPfSvW=$/-",
+    "front": {
+      "phrase": "たつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建つ",
+      "reading": "たつ",
+      "meaning": "Ser edificado",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "scKNE2A7aP",
+    "front": {
+      "phrase": "建てる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建てる",
+      "reading": "たてる",
+      "meaning": "Edificar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "f^CI)zFO5D",
+    "front": {
+      "phrase": "たてる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建てる",
+      "reading": "たてる",
+      "meaning": "Edificar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "tB%nlyr2W!",
+    "front": {
+      "phrase": "建立",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建立",
+      "reading": "こんりゅう",
+      "meaning": "Construccion de templos / santuarios",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "He=`xim?yy",
+    "front": {
+      "phrase": "こんりゅう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建立",
+      "reading": "こんりゅう",
+      "meaning": "Construccion de templos / santuarios",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "tocg~nO9w~",
+    "front": {
+      "phrase": "築く",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "築く",
+      "reading": "きずく",
+      "meaning": "Construir",
+      "notes": "Para cosas que se construyen poco a poco / en el tiempo"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "r=4=,2l^)z",
+    "front": {
+      "phrase": "きずく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "築く",
+      "reading": "きずく",
+      "meaning": "Construir",
+      "notes": "Para cosas que se construyen poco a poco / en el tiempo"
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C$(5HPm#)*",
+    "front": {
+      "phrase": "改築する",
+      "furigana": "かい＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "改築する",
+      "reading": "かいちくする",
+      "meaning": "Remodelar o reconstruir",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "m;xmfeluti",
+    "front": {
+      "phrase": "改[ちく]する",
+      "furigana": "かい＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "改築する",
+      "reading": "かいちくする",
+      "meaning": "Remodelar o reconstruir",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "eH~(Xpb_MY",
+    "front": {
+      "phrase": "建築",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建築",
+      "reading": "けんちく",
+      "meaning": "Arquitectura",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "nGeGl&_Cfq",
+    "front": {
+      "phrase": "けんちく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建築",
+      "reading": "けんちく",
+      "meaning": "Arquitectura",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "ci[h$a;,$<",
+    "front": {
+      "phrase": "新築",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "新築",
+      "reading": "しんちく",
+      "meaning": "Recien construido",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "x*99qodj1!",
+    "front": {
+      "phrase": "しんちく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "新築",
+      "reading": "しんちく",
+      "meaning": "Recien construido",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "s~1szJ*>}A",
+    "front": {
+      "phrase": "築30年",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "築30年",
+      "reading": "ちくさんじゅうねん",
+      "meaning": "30 años de construído",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "P26_ksOvO`",
+    "front": {
+      "phrase": "[ちく]30とし",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "築30年",
+      "reading": "ちくさんじゅうねん",
+      "meaning": "30 años de construído",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "t*|cehU1z^",
+    "front": {
+      "phrase": "構える",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構える",
+      "reading": "かまえる",
+      "meaning": "Establecer, elegir, poner",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "J@v~c<c[>`",
+    "front": {
+      "phrase": "構う",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構う",
+      "reading": "かまう",
+      "meaning": "Establecerse",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "F[9[l85]4o",
+    "front": {
+      "phrase": "かまえる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構える",
+      "reading": "かまえる",
+      "meaning": "Establecer, elegir, poner",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "OnsTL%awV7",
+    "front": {
+      "phrase": "かまう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構う",
+      "reading": "かまう",
+      "meaning": "Establecerse",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Onc.!Q~|a&",
+    "front": {
+      "phrase": "構成する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構成する",
+      "reading": "こうせいする",
+      "meaning": "Estructurar, diagramar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "IwPU5I{Np",
+    "front": {
+      "phrase": "[こう]成する",
+      "furigana": "__せい",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構成する",
+      "reading": "こうせいする",
+      "meaning": "Estructurar, diagramar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "yg`2qMUN3I",
+    "front": {
+      "phrase": "構内",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構内",
+      "reading": "こうない",
+      "meaning": "Dentro del recinto",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "r1w)yy;Hn,",
+    "front": {
+      "phrase": "こうない",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構内",
+      "reading": "こうない",
+      "meaning": "Dentro del recinto",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cv;_vx[XB?",
+    "front": {
+      "phrase": "構造",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構造",
+      "reading": "こうぞう",
+      "meaning": "Estructura (como esta construido)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "bBOQq,g:0n",
+    "front": {
+      "phrase": "こうぞう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "構造",
+      "reading": "こうぞう",
+      "meaning": "Estructura (como esta construido)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "H=-|#?=J+}",
+    "front": {
+      "phrase": "造る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "造る",
+      "reading": "つくる",
+      "meaning": "Construir, fabricar (cosas complejas o artificiales)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "o&ZT,@:|j&",
+    "front": {
+      "phrase": "船を[つく]る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "船を造る",
+      "reading": "ふねをつくる",
+      "meaning": "Construir, fabricar (cosas complejas o artificiales)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "IYjp1z-2vh",
+    "front": {
+      "phrase": "木造",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "木造",
+      "reading": "もくぞう",
+      "meaning": "Hecho de madera",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "e+{o$n|-4|",
+    "front": {
+      "phrase": "もくぞう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "木造",
+      "reading": "もくぞう",
+      "meaning": "Hecho de madera",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "uo{REF.W[Q",
+    "front": {
+      "phrase": "造花",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "造花",
+      "reading": "ぞうか",
+      "meaning": "Flores artificiales",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "xOyXCqSh)$",
+    "front": {
+      "phrase": "ぞうか",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "造花",
+      "reading": "ぞうか",
+      "meaning": "Flores artificiales",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "w%0XHgc@6?",
+    "front": {
+      "phrase": "建造物",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建造物",
+      "reading": "けんぞうぶつ",
+      "meaning": "Edificacion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "xUxR0Tp#yg",
+    "front": {
+      "phrase": "けんぞうぶつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建造物",
+      "reading": "けんぞうぶつ",
+      "meaning": "Edificacion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ei~O8lKZ6)",
+    "front": {
+      "phrase": "造船",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "造船",
+      "reading": "ぞうせん",
+      "meaning": "Astilleria",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "iv+@nI>]/<",
+    "front": {
+      "phrase": "ぞうせん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "造船",
+      "reading": "ぞうせん",
+      "meaning": "Astilleria",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "j6K6I0qVa.",
+    "front": {
+      "phrase": "設ける",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設ける",
+      "reading": "もうける",
+      "meaning": "Establecer",
+      "notes": "ルールを設ける"
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "Lz+{HbA)kh",
+    "front": {
+      "phrase": "ルールを[もう.ける]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "ルールを設ける",
+      "reading": "ルールをもうける",
+      "meaning": "Establecer una regla",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c9C4|;%lf6",
+    "front": {
+      "phrase": "設定",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設定",
+      "reading": "せってい",
+      "meaning": "Configuracion, settings",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "IoiYi],}GK",
+    "front": {
+      "phrase": "せってい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設定",
+      "reading": "せってい",
+      "meaning": "Configuracion, settings",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "d:hJI;](}%",
+    "front": {
+      "phrase": "設計する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設計する",
+      "reading": "せっけいする",
+      "meaning": "Diseñar, diagramar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": ",0SM^uYF`",
+    "front": {
+      "phrase": "[せっけい]する",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設計する",
+      "reading": "せっけいする",
+      "meaning": "Diseñar, diagramar",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "eo}9G_ff+*",
+    "front": {
+      "phrase": "設立",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設立",
+      "reading": "せつりつ",
+      "meaning": "Establecimiento, fundacion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "ECV!W4+O-[",
+    "front": {
+      "phrase": "せつりつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "設立",
+      "reading": "せつりつ",
+      "meaning": "Establecimiento, fundacion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "xa[#lzHeZ^",
+    "front": {
+      "phrase": "建設",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建設",
+      "reading": "けんせつ",
+      "meaning": "Construccion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "O5Cb4N)/-#",
+    "front": {
+      "phrase": "けんせつ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "建設",
+      "reading": "けんせつ",
+      "meaning": "Construccion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "fjP`1}9,I{",
+    "front": {
+      "phrase": "柱",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "柱",
+      "reading": "はしら",
+      "meaning": "Pilar, columna",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "kNyiei_U2q",
+    "front": {
+      "phrase": "はしら",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "柱",
+      "reading": "はしら",
+      "meaning": "Pilar, columna",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "DK%@o,U&5:",
+    "front": {
+      "phrase": "電柱",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "Poste de luz",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "tE9L_-]D{/",
+    "front": {
+      "phrase": "でんちゅう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "Poste de luz",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "I<&kgchik",
+    "front": {
+      "phrase": "大黒柱",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大黒柱",
+      "reading": "だいこくばしら",
+      "meaning": "El sosten de la casa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "G2QB0LgO2*",
+    "front": {
+      "phrase": "だいこくばしら",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大黒柱",
+      "reading": "だいこくばしら",
+      "meaning": "El sosten de la casa",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "vYEOH;aM|g",
+    "front": {
+      "phrase": "金庫",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "金庫",
+      "reading": "きんこ",
+      "meaning": "Caja fuerte",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "rm=koMJf}2",
+    "front": {
+      "phrase": "きんこ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "金庫",
+      "reading": "きんこ",
+      "meaning": "Caja fuerte",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dze@CZAn2E",
+    "front": {
+      "phrase": "車庫",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "車庫",
+      "reading": "しゃこ",
+      "meaning": "Garage (de la casa)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "G[3k]rXrf(",
+    "front": {
+      "phrase": "しゃこ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "車庫",
+      "reading": "しゃこ",
+      "meaning": "Garage (de la casa)",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "nmYI[:a+6.",
+    "front": {
+      "phrase": "向く",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向く",
+      "reading": "むく",
+      "meaning": "Orientarse a...",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "t8D=wk(IIs",
+    "front": {
+      "phrase": "向かう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向かう",
+      "reading": "むかう",
+      "meaning": "Dirigirse hacia...",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "o0hRc&WTs5",
+    "front": {
+      "phrase": "むく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向く",
+      "reading": "むく",
+      "meaning": "Orientarse a...",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "s=UdvsUFV7",
+    "front": {
+      "phrase": "むかう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向かう",
+      "reading": "むかう",
+      "meaning": "Dirigirse hacia...",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NW(j%pC#]N",
+    "front": {
+      "phrase": "向ける",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向ける",
+      "reading": "むける",
+      "meaning": "Dirigir algo hacia...",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "imyU@:_hyl",
+    "front": {
+      "phrase": "むける",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向ける",
+      "reading": "むける",
+      "meaning": "Dirigir algo hacia...",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "GX/N38AfYy",
+    "front": {
+      "phrase": "向こう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向こう",
+      "reading": "むこう",
+      "meaning": "El otro lado, mas alla de algo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "oEhQpy,3B&",
+    "front": {
+      "phrase": "むこう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向こう",
+      "reading": "むこう",
+      "meaning": "El otro lado, mas alla de algo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Dx,.2O;Jxj",
+    "front": {
+      "phrase": "向上心",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向上心",
+      "reading": "こうじょうしん",
+      "meaning": "Espiritu de autosuperacion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "lS.h~(o?)V",
+    "front": {
+      "phrase": "こうじょうしん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "向上心",
+      "reading": "こうじょうしん",
+      "meaning": "Espiritu de autosuperacion",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "gX[4hG:+s<",
+    "front": {
+      "phrase": "方向",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "方向",
+      "reading": "ほうこう",
+      "meaning": "Direccion, sentido, rumbo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "lectura",
+      "N3"
+    ]
+  },
+  {
+    "id": "fE.kAQ,|ai",
+    "front": {
+      "phrase": "ほうこう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "方向",
+      "reading": "ほうこう",
+      "meaning": "Direccion, sentido, rumbo",
+      "notes": ""
+    },
+    "tags": [
+      "escritura",
+      "kanji",
+      "N3"
+    ]
+  }
+]
