@@ -2506,5 +2506,2551 @@
       "kanji",
       "N3"
     ]
+  },
+  {
+    "id": "r,/tL|w&2A",
+    "front": {
+      "phrase": "豆",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆",
+      "reading": "まめ",
+      "meaning": "Poroto",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "fBP2)Yz1tV",
+    "front": {
+      "phrase": "まめ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆",
+      "reading": "まめ",
+      "meaning": "Poroto",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "bmj}!5vjl%",
+    "front": {
+      "phrase": "豆知識",
+      "furigana": "__しき",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆知識",
+      "reading": "まめちしき",
+      "meaning": "\"Pequeños conocimientos\", \"datos curiosos\"",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "kTqFPSUnU}",
+    "front": {
+      "phrase": "[まめ]ちしき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆知識",
+      "reading": "まめちしき",
+      "meaning": "\"Pequeños conocimientos\", \"datos curiosos\"",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dHU(u&Z~$L",
+    "front": {
+      "phrase": "コーヒー豆",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "コーヒー豆",
+      "reading": "コーヒーまめ",
+      "meaning": "Granos de café&nbsp;",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "i9k:/s`.1R",
+    "front": {
+      "phrase": "豆腐",
+      "furigana": "_ふ",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆腐",
+      "reading": "とうふ",
+      "meaning": "Tofu",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "P7Z9XB_D!X",
+    "front": {
+      "phrase": "[とう]ふ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "豆腐",
+      "reading": "とうふ",
+      "meaning": "Tofu",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ptn:n`V[9z",
+    "front": {
+      "phrase": "大豆",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大豆",
+      "reading": "たいず",
+      "meaning": "Soja",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "d;wgp=h+Hb",
+    "front": {
+      "phrase": "たいず",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "大豆",
+      "reading": "たいず",
+      "meaning": "Soja",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cus6kUBl~r",
+    "front": {
+      "phrase": "小豆",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "小豆",
+      "reading": "あずき",
+      "meaning": "Aduki",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "df;-W,7?t<",
+    "front": {
+      "phrase": "あずき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "小豆",
+      "reading": "あずき",
+      "meaning": "Aduki",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "E`v>#AzK:^",
+    "front": {
+      "phrase": "缶コーヒー",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "缶コーヒー",
+      "reading": "かん",
+      "meaning": "Cafe en lata",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "H(]`OY);^,",
+    "front": {
+      "phrase": "かんコーヒー",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "缶コーヒー",
+      "reading": "かん",
+      "meaning": "Cafe en lata",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c*|.P?KF9h",
+    "front": {
+      "phrase": "空き缶",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "空き缶",
+      "reading": "あきかん",
+      "meaning": "Lata vacia",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "lCCP{Kv?sf",
+    "front": {
+      "phrase": "あきかん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "空き缶",
+      "reading": "あきかん",
+      "meaning": "Lata vacia",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "DZGA:kYpcs",
+    "front": {
+      "phrase": "缶チューハイ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "缶チューハイ",
+      "reading": "かん",
+      "meaning": "<span style=\"color: rgb(108, 108, 108); background-color: rgb(255, 255, 255);\">Lata de chūhai</span>",
+      "notes": "Bebida alcoholica"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Qbp%F%ZN_x",
+    "front": {
+      "phrase": "缶詰",
+      "furigana": "＿づめ",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "缶詰",
+      "reading": "かんづめ",
+      "meaning": "Conservas enlatadas",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "iR-(-F2@d8",
+    "front": {
+      "phrase": "[かん]づめ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "缶詰",
+      "reading": "かんづめ",
+      "meaning": "Conservas enlatadas",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "B)_v2Zh$F%",
+    "front": {
+      "phrase": "杯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "杯",
+      "reading": "さかずき",
+      "meaning": "Copa para sake",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "k6.[vM>Qq[",
+    "front": {
+      "phrase": "さかずき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "杯",
+      "reading": "さかずき",
+      "meaning": "Copa para sake",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "CYOo.tdXcP",
+    "front": {
+      "phrase": "～杯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "～杯",
+      "reading": "～はい",
+      "meaning": "Contador de copas o recipientes llenos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mXpG)YYknZ",
+    "front": {
+      "phrase": "～はい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "～杯",
+      "reading": "～はい",
+      "meaning": "Contador de copas o recipientes llenos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "p;8?7A]D|-",
+    "front": {
+      "phrase": "乾杯（する）",
+      "furigana": "かん",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "乾杯（する）",
+      "reading": "かんぱい",
+      "meaning": "Fondo",
+      "notes": "Expresion usada para brindar"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "JSNG{1xL]u",
+    "front": {
+      "phrase": "かん[ぱい]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "乾杯",
+      "reading": "かんぱい",
+      "meaning": "Fondo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L|NOcmpeOb",
+    "front": {
+      "phrase": "枚数",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "枚数",
+      "reading": "まいすう",
+      "meaning": "Cantidad de copias",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "fqwQDBgdjn",
+    "front": {
+      "phrase": "まいすう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "枚数",
+      "reading": "まいすう",
+      "meaning": "Cantidad de copias",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e$gmJrCPA0",
+    "front": {
+      "phrase": "二枚目",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "二枚目",
+      "reading": "にまいめ",
+      "meaning": "Buenmozo",
+      "notes": "Usado por señoras mayores..."
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jQL@TZ!c4n",
+    "front": {
+      "phrase": "にまいめ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "二枚目",
+      "reading": "にまいめ",
+      "meaning": "Buenmozo",
+      "notes": "Usado por señoras mayores..."
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "uG&JYE3@b{",
+    "front": {
+      "phrase": "～枚",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "～枚",
+      "reading": "まい",
+      "meaning": "Contador de hojas o cosas planas (filetes, discos etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O9]Ku;:^&M",
+    "front": {
+      "phrase": "～まい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "～枚",
+      "reading": "まい",
+      "meaning": "Contador de hojas o cosas planas (filetes, discos etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "s0y}bQL!~=",
+    "front": {
+      "phrase": "～匹",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "～匹",
+      "reading": "ひき",
+      "meaning": "Contador de animales chiquitos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "EeWeFLn&l&",
+    "front": {
+      "phrase": "匹敵する",
+      "furigana": "＿てき",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "匹敵する",
+      "reading": "ひってき",
+      "meaning": "Rivalizar (en el sentido de equiparar)",
+      "notes": "「彼はプロに匹敵する絵の才能を持つ」-&gt; Tiene un talento con el dibujo que rivaliza con el de un profesional"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "vW2{9nPI$&",
+    "front": {
+      "phrase": "[ひっ]てき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "匹敵",
+      "reading": "ひってき",
+      "meaning": "Rivalizar (en el sentido de equiparar)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Q8lx=X^5[1",
+    "front": {
+      "phrase": "計量",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "計量",
+      "reading": "けいりょう",
+      "meaning": "Medicion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "eYd/J?csjj",
+    "front": {
+      "phrase": "けいりょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "計量",
+      "reading": "けいりょう",
+      "meaning": "Medicion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "lb!}-|sIt?",
+    "front": {
+      "phrase": "分量",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "Medicion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "nJyR,xhJNc",
+    "front": {
+      "phrase": "ぶんりょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "Medicion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "zPvf/BZ-k2",
+    "front": {
+      "phrase": "重量",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "Peso, algo pesado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "c33fex,#IF",
+    "front": {
+      "phrase": "じゅうりょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "Peso, algo pesado",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "B|XsjgTyP<",
+    "front": {
+      "phrase": "量る",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "量る",
+      "reading": "はかる",
+      "meaning": "Pesar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "AA!way~]=y",
+    "front": {
+      "phrase": "はかる",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "量る",
+      "reading": "はかる",
+      "meaning": "Pesar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O0/9Fh``<(",
+    "front": {
+      "phrase": "軽量",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "軽量",
+      "reading": "けいりょう",
+      "meaning": "Liviano",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ei7g-syz5y",
+    "front": {
+      "phrase": "けいりょう　（liviano）",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "軽量",
+      "reading": "けいりょう",
+      "meaning": "Liviano",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "A|j8T=jWjN",
+    "front": {
+      "phrase": "頭",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭",
+      "reading": "あたま",
+      "meaning": "Cabeza",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "f}~ca00ms(",
+    "front": {
+      "phrase": "あたま",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭",
+      "reading": "あたま",
+      "meaning": "Cabeza",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "v0(sB0EHhC",
+    "front": {
+      "phrase": "頭痛",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭痛",
+      "reading": "ずつう",
+      "meaning": "Dolor de cabeza",
+      "notes": "「頭痛が続いている」"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "hzy$qXsx^,",
+    "front": {
+      "phrase": "ずつう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭痛",
+      "reading": "ずつう",
+      "meaning": "Dolor de cabeza",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "s@B=)t0*I,",
+    "front": {
+      "phrase": "年頭",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "年頭",
+      "reading": "ねんとう",
+      "meaning": "Principio de año",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "kL,#IYWouB",
+    "front": {
+      "phrase": "ねんとう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "年頭",
+      "reading": "ねんとう",
+      "meaning": "Principio de año",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L}2Bbbu(*t",
+    "front": {
+      "phrase": "口頭試験",
+      "furigana": "＿＿しけん",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "口頭試験",
+      "reading": "こうとうしけん",
+      "meaning": "Examen oral",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dd13S+E)#:",
+    "front": {
+      "phrase": "[こうとう]しけん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "口頭試験",
+      "reading": "こうとうしけん",
+      "meaning": "Examen oral",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Q0bJ]gLs5J",
+    "front": {
+      "phrase": "頭文字",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭文字",
+      "reading": "かしらもじ",
+      "meaning": "La inicial (de un nombre, palabra)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jQq5n+w$WW",
+    "front": {
+      "phrase": "かしらもじ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "頭文字",
+      "reading": "かしらもじ",
+      "meaning": "La inicial (de un nombre, palabra)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Fu{h#X3&#a",
+    "front": {
+      "phrase": "顔",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔",
+      "reading": "かお",
+      "meaning": "Cara",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C^}Zs:Vs]C",
+    "front": {
+      "phrase": "かお",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔",
+      "reading": "かお",
+      "meaning": "Cara",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "f[N%{w|sX@",
+    "front": {
+      "phrase": "笑顔",
+      "furigana": "え＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "笑顔",
+      "reading": "えがお",
+      "meaning": "Sonrisa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "rpjsA+g0.O",
+    "front": {
+      "phrase": "え[がお]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "笑顔",
+      "reading": "えがお",
+      "meaning": "Sonrisa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "OACBs*Vaee",
+    "front": {
+      "phrase": "顔面",
+      "furigana": "_めん",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔面",
+      "reading": "がんめん",
+      "meaning": "Superficie de la cara",
+      "notes": "「ボールが顔面に当たり鼻血が出た」"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "zHf1.~B9`I",
+    "front": {
+      "phrase": "がん[めん]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔面",
+      "reading": "がんめｎ",
+      "meaning": "Superficie de la cara",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Q1wIF(O*JR",
+    "front": {
+      "phrase": "顔負け",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔負け",
+      "reading": "かおまけ",
+      "meaning": "Que deja en ridiculo a los demas",
+      "notes": "Se usa para comparar"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K6Z(?BO+U,",
+    "front": {
+      "phrase": "かおまけ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔負け",
+      "reading": "かおまけ",
+      "meaning": "Que deja en ridiculo a los demas",
+      "notes": "Se usa para comparar"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "t;wAx2aDco",
+    "front": {
+      "phrase": "顔色",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔色",
+      "reading": "かおいろ",
+      "meaning": "\"Color de la cara\", \"aspecto del rostro\"",
+      "notes": "Para hablar del estado de salud de alguien, o su estado emocional"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "J91ybHc=d",
+    "front": {
+      "phrase": "かおいろ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "顔色",
+      "reading": "かおいろ",
+      "meaning": "\"Color de la cara\", \"aspecto del rostro\"",
+      "notes": "Para hablar del estado de salud de alguien, o su estado emocional"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "E&Gs]adS?!",
+    "front": {
+      "phrase": "首",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首",
+      "reading": "くび",
+      "meaning": "Cuello",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "H7;%2[?Axm",
+    "front": {
+      "phrase": "くび",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首",
+      "reading": "くび",
+      "meaning": "Cuello",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "m,W0Di|;H7",
+    "front": {
+      "phrase": "首位",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首位",
+      "reading": "しゅい",
+      "meaning": "El primer lugar",
+      "notes": "「首位に立つ」"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e@2O@(KP};",
+    "front": {
+      "phrase": "しゅい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首位",
+      "reading": "しゅい",
+      "meaning": "El primer lugar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K2kYhFpQRU",
+    "front": {
+      "phrase": "首相",
+      "furigana": "＿しょう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Primer ministro",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mQ;C>U8}F,",
+    "front": {
+      "phrase": "しゅ[しょう]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "首相",
+      "reading": "しゅしょう",
+      "meaning": "Primer ministro",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "OuYHB(BTNb",
+    "front": {
+      "phrase": "鼻",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "鼻",
+      "reading": "はな",
+      "meaning": "Nariz",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jgN#S>h2`u",
+    "front": {
+      "phrase": "はな　（nariz）",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "鼻",
+      "reading": "はな",
+      "meaning": "Nariz",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "sZZ?fU#0du",
+    "front": {
+      "phrase": "鼻水",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "鼻水",
+      "reading": "はなみず",
+      "meaning": "Moco agüita",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Gc[O>>sWA3",
+    "front": {
+      "phrase": "はなみず",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "鼻水",
+      "reading": "はなみず",
+      "meaning": "Moco agüita",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Dy-KIjd/;F",
+    "front": {
+      "phrase": "耳鼻科",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "耳鼻科",
+      "reading": "じびか",
+      "meaning": "Departamento de otorrinolaringologia",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L;~0Uk7]MC",
+    "front": {
+      "phrase": "じびか",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "耳鼻科",
+      "reading": "じびか",
+      "meaning": "Departamento de otorrinolaringologia",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "o8(_*]AH7g",
+    "front": {
+      "phrase": "呼ぶ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "Llamar por el nombre, parar (un taxi)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "C,rEa)HjC3",
+    "front": {
+      "phrase": "よぶ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "呼ぶ",
+      "reading": "よぶ",
+      "meaning": "Llamar por el nombre, parar (un taxi)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "dN.ONR`s`y",
+    "front": {
+      "phrase": "助け呼ぶ",
+      "furigana": "た＿＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "助け呼ぶ",
+      "reading": "たすけよぶ",
+      "meaning": "Pedir ayuda",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "luiJE]E3r8",
+    "front": {
+      "phrase": "助け[よぶ]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "助け呼ぶ",
+      "reading": "たすけよぶ",
+      "meaning": "Pedir ayuda",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "@=5:p)x{j",
+    "front": {
+      "phrase": "吸う",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "吸う",
+      "reading": "すう",
+      "meaning": "Inhalar, aspirar",
+      "notes": "「空気を吸う」ー＞Respirar<br>「タバコを吸う」ー＞Fumar"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Dc;5)1A=1:",
+    "front": {
+      "phrase": "すう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "吸う",
+      "reading": "すう",
+      "meaning": "Inhalar, aspirar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "u5*RO+%^Qe",
+    "front": {
+      "phrase": "深呼吸（する）",
+      "furigana": "しん＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "深呼吸（する）",
+      "reading": "しんこきゅう",
+      "meaning": "Respiracion profunda",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L^=sCN?Lv9",
+    "front": {
+      "phrase": "しん[こきゅう]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "深呼吸",
+      "reading": "しんこきゅう",
+      "meaning": "Respiracion profunda",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Gn/%&)3~wv",
+    "front": {
+      "phrase": "呼吸",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "呼吸",
+      "reading": "こきゅう",
+      "meaning": "Respiracion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "HIJP[)X24q",
+    "front": {
+      "phrase": "こきゅう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "呼吸",
+      "reading": "こきゅう",
+      "meaning": "Respiracion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "JQpc|dei>C",
+    "front": {
+      "phrase": "休息",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "休息",
+      "reading": "きゅうそく",
+      "meaning": "Relajacion, descanso, respiro",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Cj=rpW+d>{",
+    "front": {
+      "phrase": "きゅうそく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "休息",
+      "reading": "きゅうそく",
+      "meaning": "Relajacion, descanso, respiro",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "b]_?0*3N~(",
+    "front": {
+      "phrase": "息",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息",
+      "reading": "いき",
+      "meaning": "Aliento",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "lzrKw1&B8M",
+    "front": {
+      "phrase": "いき",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息",
+      "reading": "いき",
+      "meaning": "Aliento",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "PQ~wH!@+]S",
+    "front": {
+      "phrase": "利息",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "利息",
+      "reading": "りそく",
+      "meaning": "Intereses",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "yH0G$ub]?P",
+    "front": {
+      "phrase": "りそく",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "利息",
+      "reading": "りそく",
+      "meaning": "Intereses",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "z)zb-@m]HA",
+    "front": {
+      "phrase": "息苦しい",
+      "furigana": "＿ぐる",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息苦しい",
+      "reading": "いきぐるしい",
+      "meaning": "Dificultades para respirar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "q4:3Zq`6t|",
+    "front": {
+      "phrase": "いき[ぐるしい]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息苦しい",
+      "reading": "いきぐるしい",
+      "meaning": "Dificultades para respirar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "iP|b=d|W*P",
+    "front": {
+      "phrase": "音頭",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "音頭",
+      "reading": "おんどう",
+      "meaning": "Ondou (estilo musical asociado al matsuri)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "qZ7I_WeM+U",
+    "front": {
+      "phrase": "おんどう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "音頭",
+      "reading": "おんどう",
+      "meaning": "Ondou (estilo musical asociado al matsuri)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "xxp2iBqwWx",
+    "front": {
+      "phrase": "息子",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息子",
+      "reading": "むすこ",
+      "meaning": "Hijo varon",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "r]v,=/zU!z",
+    "front": {
+      "phrase": "むすこ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "息子",
+      "reading": "むすこ",
+      "meaning": "Hijo varon",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "y&<q7T(~A1",
+    "front": {
+      "phrase": "汗",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "汗",
+      "reading": "あせ",
+      "meaning": "Sudor",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "uGA}2ao59$",
+    "front": {
+      "phrase": "あせ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "汗",
+      "reading": "あせ",
+      "meaning": "Sudor",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "k$Zh]?N<DR",
+    "front": {
+      "phrase": "冷や汗",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "冷や汗",
+      "reading": "ひやあせ",
+      "meaning": "Sudor frio",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "AtYyn+]itO",
+    "front": {
+      "phrase": "ひやあせ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "冷や汗",
+      "reading": "ひやあせ",
+      "meaning": "Sudor frio",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "J)8^of@V`E",
+    "front": {
+      "phrase": "発汗作用",
+      "furigana": "＿＿さよう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "発汗作用",
+      "reading": "はっかんさよう",
+      "meaning": "Que produce sudoracion",
+      "notes": "Por ejemplo una comida picante"
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O9l#@y3[><",
+    "front": {
+      "phrase": "[はっかん]さよう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "発汗作用",
+      "reading": "はっかんさよう",
+      "meaning": "Que produce sudoracion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "o@vk?Pnz&3",
+    "front": {
+      "phrase": "点検",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "点検",
+      "reading": "てんけん",
+      "meaning": "Chequeo, mantenimiento (de maquinas, servidores)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "L.6`V{}*|I",
+    "front": {
+      "phrase": "てんけん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "点検",
+      "reading": "てんけん",
+      "meaning": "Chequeo, mantenimiento (de maquinas, servidores)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "#VFLRY!^X",
+    "front": {
+      "phrase": "探検する",
+      "furigana": "たん＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "探検する",
+      "reading": "たんけん",
+      "meaning": "Explorar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "mI:-Sr-*`{",
+    "front": {
+      "phrase": "たん[けん]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "探検",
+      "reading": "たんけん",
+      "meaning": "Explorar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K|KYL1GpZz",
+    "front": {
+      "phrase": "検査",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検査",
+      "reading": "けんさ",
+      "meaning": "Inspeccion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "pH=y3%HL%)",
+    "front": {
+      "phrase": "けんさ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検査",
+      "reading": "けんさ",
+      "meaning": "Inspeccion",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "tUIF],a[LD",
+    "front": {
+      "phrase": "査証",
+      "furigana": "_しょう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "査証",
+      "reading": "さしょう",
+      "meaning": "Revision para la visa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "O.L0e$a-g{",
+    "front": {
+      "phrase": "[さ]しょう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "査証",
+      "reading": "さしょう",
+      "meaning": "Revision para la visa",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "D~ONJ?[9R9",
+    "front": {
+      "phrase": "調査",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "調査",
+      "reading": "ちょうさ",
+      "meaning": "Investigacion, encuesta, etc",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Jq{TVP2pWQ",
+    "front": {
+      "phrase": "ちょうさ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "調査",
+      "reading": "ちょうさ",
+      "meaning": "Investigacion, encuesta, etc",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "K6H~9u)q8L",
+    "front": {
+      "phrase": "歯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "歯",
+      "reading": "は",
+      "meaning": "Diente",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "GP?u3oNqER",
+    "front": {
+      "phrase": "歯科医院",
+      "furigana": "＿＿いいん",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "歯科医院",
+      "reading": "しかいいん",
+      "meaning": "Odontologo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "smTN/{EXBV",
+    "front": {
+      "phrase": "[しか]いいん",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "歯科医院",
+      "reading": "しかいいん",
+      "meaning": "Odontologo",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "e!S73SUvd]",
+    "front": {
+      "phrase": "虫歯",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "虫歯",
+      "reading": "むしば",
+      "meaning": "Caries",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "NV$Um]MeNM",
+    "front": {
+      "phrase": "むしば",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "虫歯",
+      "reading": "むしば",
+      "meaning": "Caries",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "JblWCcAUzL",
+    "front": {
+      "phrase": "永久歯",
+      "furigana": "えいきゅう＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "永久歯",
+      "reading": "えいきゅうし",
+      "meaning": "Dientes definitivos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "q<1lJ,7p&>",
+    "front": {
+      "phrase": "えいきゅう[し]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "永久歯",
+      "reading": "えいきゅうし",
+      "meaning": "Dientes definitivos",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "qxey9Qjjwh",
+    "front": {
+      "phrase": "歯車",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "歯車",
+      "reading": "はぐるま",
+      "meaning": "Engranajes",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "bg3TnQnm/D",
+    "front": {
+      "phrase": "はぐるま",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "歯車",
+      "reading": "はぐるま",
+      "meaning": "Engranajes",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jOmWI4+ehC",
+    "front": {
+      "phrase": "痛い",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "痛い",
+      "reading": "いたい",
+      "meaning": "Duele",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "sADt1$~vXf",
+    "front": {
+      "phrase": "いだい",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "痛い",
+      "reading": "いたい",
+      "meaning": "Duele",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "AhCyJBQ8$`",
+    "front": {
+      "phrase": "激痛",
+      "furigana": "げき＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "激痛",
+      "reading": "げきつう",
+      "meaning": "Dolor intenso",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "i)=HT~f:/*",
+    "front": {
+      "phrase": "げきつう",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "激痛",
+      "reading": "げきつう",
+      "meaning": "Dolor intenso",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Mq85H]BD+?",
+    "front": {
+      "phrase": "痛む",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "痛む",
+      "reading": "いたむ",
+      "meaning": "Me duele",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "QQ@)A@JAxX",
+    "front": {
+      "phrase": "いたむ",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "痛む",
+      "reading": "いたむ",
+      "meaning": "Me duele",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "Ft7M}v$m}u",
+    "front": {
+      "phrase": "検証",
+      "furigana": "＿しょう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検証",
+      "reading": "けんしょう",
+      "meaning": "Chequear, validar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "u`=Ch:J!KC",
+    "front": {
+      "phrase": "けん[しょう]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検証",
+      "reading": "けんしょう",
+      "meaning": "Chequear, validar",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "qz*QSmup~f",
+    "front": {
+      "phrase": "検討",
+      "furigana": "＿とう",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検討",
+      "reading": "けんとう",
+      "meaning": "discutir, debatir (para llegar a una conclusion)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "m},,@{.AH?",
+    "front": {
+      "phrase": "けん[とう]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "検討",
+      "reading": "けんとう",
+      "meaning": "discutir, debatir (para llegar a una conclusion)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "jfsAK0g_sh",
+    "front": {
+      "phrase": "審査員",
+      "furigana": "しん＿＿＿",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "審査員",
+      "reading": "しんさいん",
+      "meaning": "Jurado (de una competencia, audicion, etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
+  },
+  {
+    "id": "sDD3`($C^9",
+    "front": {
+      "phrase": "しん[さいん]",
+      "furigana": "",
+      "word": "",
+      "notes": ""
+    },
+    "back": {
+      "fullPhrase": "審査員",
+      "reading": "さいんさいん",
+      "meaning": "Jurado (de una competencia, audicion, etc)",
+      "notes": ""
+    },
+    "tags": [
+      "kanji",
+      "N3"
+    ]
   }
 ]

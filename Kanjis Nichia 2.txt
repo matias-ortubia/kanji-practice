@@ -136,3 +136,138 @@ L*}PeWzuQQ	果物				果物	くだもの	Fruta					kanji N3
 eptVG}C!:!	くだもの				果物	くだもの	Fruta					kanji N3
 s2f0W2S$7M	果実酒				果実酒	かじつしゅ	Licor de frutas					kanji N3
 "l.$VeuL#q*"	かじつしゅ				果実酒	かじつしゅ	Licor de frutas					kanji N3
+r,/tL|w&2A	豆				豆	まめ	Poroto					kanji N3
+fBP2)Yz1tV	まめ				豆	まめ	Poroto					kanji N3
+bmj}!5vjl%	豆知識	__しき			豆知識	まめちしき	"
+""Pequeños conocimientos"", ""datos curiosos"""					kanji N3
+kTqFPSUnU}	[まめ]ちしき				豆知識	まめちしき	"""Pequeños conocimientos"", ""datos curiosos"""					kanji N3
+dHU(u&Z~$L	コーヒー豆				コーヒー豆	コーヒーまめ	Granos de café&nbsp;					kanji N3
+i9k:/s`.1R	豆腐	_ふ			豆腐	とうふ	Tofu					kanji N3
+P7Z9XB_D!X	[とう]ふ				豆腐	とうふ	Tofu					kanji N3
+Ptn:n`V[9z	大豆				大豆	たいず	Soja					kanji N3
+d;wgp=h+Hb	たいず				大豆	たいず	Soja					kanji N3
+Cus6kUBl~r	小豆				小豆	あずき	Aduki					kanji N3
+df;-W,7?t<	あずき				小豆	あずき	Aduki					kanji N3
+"E`v>#AzK:^"	缶コーヒー				缶コーヒー	かん	Cafe en lata					kanji N3
+H(]`OY);^,	かんコーヒー				缶コーヒー	かん	Cafe en lata					kanji N3
+c*|.P?KF9h	空き缶				空き缶	あきかん	Lata vacia					kanji N3
+lCCP{Kv?sf	あきかん				空き缶	あきかん	Lata vacia					kanji N3
+DZGA:kYpcs	缶チューハイ				缶チューハイ	かん	"<span style=""color: rgb(108, 108, 108); background-color: rgb(255, 255, 255);"">Lata de chūhai</span>"	Bebida alcoholica				kanji N3
+Qbp%F%ZN_x	缶詰	＿づめ			缶詰	かんづめ	Conservas enlatadas					kanji N3
+iR-(-F2@d8	[かん]づめ				缶詰	かんづめ	Conservas enlatadas					kanji N3
+B)_v2Zh$F%	杯				杯	さかずき	Copa para sake					kanji N3
+k6.[vM>Qq[	さかずき				杯	さかずき	Copa para sake					kanji N3
+CYOo.tdXcP	～杯				～杯	～はい	Contador de copas o recipientes llenos					kanji N3
+mXpG)YYknZ	～はい				～杯	～はい	Contador de copas o recipientes llenos					kanji N3
+p;8?7A]D|-	乾杯（する）	かん			乾杯（する）	かんぱい	Fondo	Expresion usada para brindar				kanji N3
+JSNG{1xL]u	かん[ぱい]				乾杯	かんぱい	Fondo					kanji N3
+L|NOcmpeOb	枚数				枚数	まいすう	Cantidad de copias					kanji N3
+fqwQDBgdjn	まいすう				枚数	まいすう	Cantidad de copias					kanji N3
+e$gmJrCPA0	二枚目				二枚目	にまいめ	Buenmozo	Usado por señoras mayores...				kanji N3
+jQL@TZ!c4n	にまいめ				二枚目	にまいめ	Buenmozo	Usado por señoras mayores...				kanji N3
+uG&JYE3@b{	～枚				～枚	まい	Contador de hojas o cosas planas (filetes, discos etc)					kanji N3
+O9]Ku;:^&M	～まい				～枚	まい	Contador de hojas o cosas planas (filetes, discos etc)					kanji N3
+s0y}bQL!~=	～匹				～匹	ひき	Contador de animales chiquitos					kanji N3
+EeWeFLn&l&	匹敵する	＿てき			匹敵する	ひってき	Rivalizar (en el sentido de equiparar)	「彼はプロに匹敵する絵の才能を持つ」-&gt; Tiene un talento con el dibujo que rivaliza con el de un profesional				kanji N3
+vW2{9nPI$&	[ひっ]てき				匹敵	ひってき	Rivalizar (en el sentido de equiparar)					kanji N3
+Q8lx=X^5[1	計量				計量	けいりょう	Medicion					kanji N3
+eYd/J?csjj	けいりょう				計量	けいりょう	Medicion					kanji N3
+lb!}-|sIt?	分量				分量	ぶんりょう	Medicion					kanji N3
+nJyR,xhJNc	ぶんりょう				分量	ぶんりょう	Medicion					kanji N3
+zPvf/BZ-k2	重量				重量	じゅうりょう	Peso, algo pesado					kanji N3
+"c33fex,#IF"	じゅうりょう				重量	じゅうりょう	Peso, algo pesado					kanji N3
+B|XsjgTyP<	量る				量る	はかる	Pesar					kanji N3
+AA!way~]=y	はかる				量る	はかる	Pesar					kanji N3
+O0/9Fh``<(	軽量				軽量	けいりょう	Liviano					kanji N3
+Ei7g-syz5y	けいりょう　（liviano）				軽量	けいりょう	Liviano					kanji N3
+A|j8T=jWjN	頭				頭	あたま	Cabeza					kanji N3
+f}~ca00ms(	あたま				頭	あたま	Cabeza					kanji N3
+v0(sB0EHhC	頭痛				頭痛	ずつう	Dolor de cabeza	「頭痛が続いている」				kanji N3
+hzy$qXsx^,	ずつう				頭痛	ずつう	Dolor de cabeza					kanji N3
+s@B=)t0*I,	年頭				年頭	ねんとう	Principio de año					kanji N3
+"kL,#IYWouB"	ねんとう				年頭	ねんとう	Principio de año					kanji N3
+L}2Bbbu(*t	口頭試験	＿＿しけん			口頭試験	こうとうしけん	Examen oral					kanji N3
+"dd13S+E)#:"	[こうとう]しけん				口頭試験	こうとうしけん	Examen oral					kanji N3
+Q0bJ]gLs5J	頭文字				頭文字	かしらもじ	La inicial (de un nombre, palabra)					kanji N3
+jQq5n+w$WW	かしらもじ				頭文字	かしらもじ	La inicial (de un nombre, palabra)					kanji N3
+"Fu{h#X3&#a"	顔				顔	かお	Cara					kanji N3
+C^}Zs:Vs]C	かお				顔	かお	Cara					kanji N3
+f[N%{w|sX@	笑顔	え＿			笑顔	えがお	Sonrisa					kanji N3
+rpjsA+g0.O	え[がお]				笑顔	えがお	Sonrisa					kanji N3
+OACBs*Vaee	顔面	_めん			顔面	がんめん	Superficie de la cara	「ボールが顔面に当たり鼻血が出た」				kanji N3
+zHf1.~B9`I	がん[めん]				顔面	がんめｎ	Superficie de la cara					kanji N3
+Q1wIF(O*JR	顔負け				顔負け	かおまけ	Que deja en ridiculo a los demas	Se usa para comparar				kanji N3
+K6Z(?BO+U,	かおまけ				顔負け	かおまけ	Que deja en ridiculo a los demas	Se usa para comparar				kanji N3
+t;wAx2aDco	顔色				顔色	かおいろ	"""Color de la cara"", ""aspecto del rostro"""	Para hablar del estado de salud de alguien, o su estado emocional				kanji N3
+J91ybHc=d	かおいろ				顔色	かおいろ	"""Color de la cara"", ""aspecto del rostro"""	Para hablar del estado de salud de alguien, o su estado emocional				kanji N3
+E&Gs]adS?!	首				首	くび	Cuello					kanji N3
+H7;%2[?Axm	くび				首	くび	Cuello					kanji N3
+m,W0Di|;H7	首位				首位	しゅい	El primer lugar	「首位に立つ」				kanji N3
+e@2O@(KP};	しゅい				首位	しゅい	El primer lugar					kanji N3
+K2kYhFpQRU	首相	＿しょう			首相	しゅしょう	Primer ministro					kanji N3
+mQ;C>U8}F,	しゅ[しょう]				首相	しゅしょう	Primer ministro					kanji N3
+OuYHB(BTNb	鼻				鼻	はな	Nariz					kanji N3
+"jgN#S>h2`u"	はな　（nariz）				鼻	はな	Nariz					kanji N3
+"sZZ?fU#0du"	鼻水				鼻水	はなみず	Moco agüita					kanji N3
+Gc[O>>sWA3	はなみず				鼻水	はなみず	Moco agüita					kanji N3
+Dy-KIjd/;F	耳鼻科				耳鼻科	じびか	Departamento de otorrinolaringologia					kanji N3
+L;~0Uk7]MC	じびか				耳鼻科	じびか	Departamento de otorrinolaringologia					kanji N3
+o8(_*]AH7g	呼ぶ				呼ぶ	よぶ	Llamar por el nombre, parar (un taxi)					kanji N3
+C,rEa)HjC3	よぶ				呼ぶ	よぶ	Llamar por el nombre, parar (un taxi)					kanji N3
+dN.ONR`s`y	助け呼ぶ	た＿＿＿			助け呼ぶ	たすけよぶ	Pedir ayuda					kanji N3
+luiJE]E3r8	助け[よぶ]				助け呼ぶ	たすけよぶ	Pedir ayuda					kanji N3
+@=5:p)x{j	吸う				吸う	すう	Inhalar, aspirar	「空気を吸う」ー＞Respirar<br>「タバコを吸う」ー＞Fumar				kanji N3
+Dc;5)1A=1:	すう				吸う	すう	Inhalar, aspirar					kanji N3
+u5*RO+%^Qe	深呼吸（する）	しん＿＿			深呼吸（する）	しんこきゅう	Respiracion profunda					kanji N3
+L^=sCN?Lv9	しん[こきゅう]				深呼吸	しんこきゅう	Respiracion profunda					kanji N3
+Gn/%&)3~wv	呼吸				呼吸	こきゅう	Respiracion					kanji N3
+HIJP[)X24q	こきゅう				呼吸	こきゅう	Respiracion					kanji N3
+JQpc|dei>C	休息				休息	きゅうそく	Relajacion, descanso, respiro					kanji N3
+Cj=rpW+d>{	きゅうそく				休息	きゅうそく	Relajacion, descanso, respiro					kanji N3
+b]_?0*3N~(	息				息	いき	Aliento					kanji N3
+lzrKw1&B8M	いき				息	いき	Aliento					kanji N3
+PQ~wH!@+]S	利息				利息	りそく	Intereses					kanji N3
+yH0G$ub]?P	りそく				利息	りそく	Intereses					kanji N3
+z)zb-@m]HA	息苦しい	＿ぐる			息苦しい	いきぐるしい	Dificultades para respirar					kanji N3
+q4:3Zq`6t|	いき[ぐるしい]				息苦しい	いきぐるしい	Dificultades para respirar					kanji N3
+iP|b=d|W*P	音頭				音頭	おんどう	Ondou (estilo musical asociado al matsuri)					kanji N3
+qZ7I_WeM+U	おんどう				音頭	おんどう	Ondou (estilo musical asociado al matsuri)					kanji N3
+xxp2iBqwWx	息子				息子	むすこ	Hijo varon					kanji N3
+r]v,=/zU!z	むすこ				息子	むすこ	Hijo varon					kanji N3
+y&<q7T(~A1	汗				汗	あせ	Sudor					kanji N3
+uGA}2ao59$	あせ				汗	あせ	Sudor					kanji N3
+k$Zh]?N<DR	冷や汗				冷や汗	ひやあせ	Sudor frio					kanji N3
+AtYyn+]itO	ひやあせ				冷や汗	ひやあせ	Sudor frio					kanji N3
+J)8^of@V`E	発汗作用	＿＿さよう			発汗作用	はっかんさよう	Que produce sudoracion	Por ejemplo una comida picante				kanji N3
+"O9l#@y3[><"	[はっかん]さよう				発汗作用	はっかんさよう	Que produce sudoracion					kanji N3
+o@vk?Pnz&3	点検				点検	てんけん	Chequeo, mantenimiento (de maquinas, servidores)					kanji N3
+L.6`V{}*|I	てんけん				点検	てんけん	Chequeo, mantenimiento (de maquinas, servidores)					kanji N3
+"#VFLRY!^X"	探検する	たん＿＿			探検する	たんけん	Explorar					kanji N3
+mI:-Sr-*`{	たん[けん]				探検	たんけん	Explorar					kanji N3
+K|KYL1GpZz	検査				検査	けんさ	Inspeccion					kanji N3
+pH=y3%HL%)	けんさ				検査	けんさ	Inspeccion					kanji N3
+tUIF],a[LD	査証	_しょう			査証	さしょう	Revision para la visa					kanji N3
+O.L0e$a-g{	[さ]しょう				査証	さしょう	Revision para la visa					kanji N3
+D~ONJ?[9R9	調査				調査	ちょうさ	Investigacion, encuesta, etc					kanji N3
+Jq{TVP2pWQ	ちょうさ				調査	ちょうさ	Investigacion, encuesta, etc					kanji N3
+K6H~9u)q8L	歯				歯	は	Diente					kanji N3
+GP?u3oNqER	歯科医院	＿＿いいん			歯科医院	しかいいん	Odontologo					kanji N3
+smTN/{EXBV	[しか]いいん				歯科医院	しかいいん	Odontologo					kanji N3
+e!S73SUvd]	虫歯				虫歯	むしば	Caries					kanji N3
+NV$Um]MeNM	むしば				虫歯	むしば	Caries					kanji N3
+JblWCcAUzL	永久歯	えいきゅう＿			永久歯	えいきゅうし	Dientes definitivos					kanji N3
+q<1lJ,7p&>	えいきゅう[し]				永久歯	えいきゅうし	Dientes definitivos					kanji N3
+qxey9Qjjwh	歯車				歯車	はぐるま	Engranajes					kanji N3
+bg3TnQnm/D	はぐるま				歯車	はぐるま	Engranajes					kanji N3
+jOmWI4+ehC	痛い				痛い	いたい	Duele					kanji N3
+sADt1$~vXf	いだい				痛い	いたい	Duele					kanji N3
+AhCyJBQ8$`	激痛	げき＿＿			激痛	げきつう	Dolor intenso					kanji N3
+i)=HT~f:/*	げきつう				激痛	げきつう	Dolor intenso					kanji N3
+Mq85H]BD+?	痛む				痛む	いたむ	Me duele					kanji N3
+QQ@)A@JAxX	いたむ				痛む	いたむ	Me duele					kanji N3
+Ft7M}v$m}u	検証	＿しょう			検証	けんしょう	Chequear, validar					kanji N3
+u`=Ch:J!KC	けん[しょう]				検証	けんしょう	Chequear, validar					kanji N3
+qz*QSmup~f	検討	＿とう			検討	けんとう	discutir, debatir (para llegar a una conclusion)					kanji N3
+m},,@{.AH?	けん[とう]				検討	けんとう	discutir, debatir (para llegar a una conclusion)					kanji N3
+jfsAK0g_sh	審査員	しん＿＿＿			審査員	しんさいん	Jurado (de una competencia, audicion, etc)					kanji N3
+sDD3`($C^9	しん[さいん]				審査員	さいんさいん	Jurado (de una competencia, audicion, etc)					kanji N3
