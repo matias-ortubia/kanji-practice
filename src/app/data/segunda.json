@@ -2929,7 +2929,7 @@
     "id": "p;8?7A]D|-",
     "front": {
       "phrase": "乾杯（する）",
-      "furigana": "かん",
+      "furigana": "かん＿",
       "word": "",
       "notes": ""
     },
@@ -3612,14 +3612,14 @@
   {
     "id": "zHf1.~B9`I",
     "front": {
-      "phrase": "がん[めん]",
+      "phrase": "[がん]めん",
       "furigana": "",
       "word": "",
       "notes": ""
     },
     "back": {
       "fullPhrase": "顔面",
-      "reading": "がんめｎ",
+      "reading": "がんめん",
       "meaning": "Superficie de la cara",
       "notes": ""
     },
