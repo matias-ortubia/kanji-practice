@@ -5,6 +5,7 @@ type Pt = { x: number; y: number };
 @Component({
   selector: 'app-writing-pad',
   standalone: true,
+  styleUrl: './writingPad.component.scss',
   template: `
     <div class="backdrop" [class.on]="open()" (click)="open.set(false)"></div>
     <div class="sheet" [class.open]="open()">
@@ -20,47 +21,7 @@ type Pt = { x: number; y: number };
         </div>
       </div>
     </div>
-  `,
-  styles: [`
-    .backdrop {
-      position: fixed; inset: 0; z-index: 19; /* debajo del panel, que tiene 20 */
-      background: rgba(0, 0, 0, .25); opacity: 0; pointer-events: none;
-      transition: opacity .3s;
-    }
-    .backdrop.on { opacity: 1; pointer-events: auto; }
-    .sheet {
-      --tab-h: 2.25rem;
-      --sliver: calc(.5rem + env(safe-area-inset-bottom, 0px)); /* franja del panel que asoma cerrado */
-      --peek: calc(var(--tab-h) + var(--sliver));
-      position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
-      display: flex; flex-direction: column; align-items: flex-end;
-      transform: translateY(calc(100% - var(--peek)));
-      transition: transform .3s cubic-bezier(.2, .8, .2, 1);
-      pointer-events: none;
-      user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;
-    }
-    .sheet.open { transform: translateY(0); }
-
-    .tab {
-      pointer-events: auto; display: flex; align-items: center; height: var(--tab-h);
-      margin-right: .75rem; padding: 0 1.4rem; font: inherit; font-size: .85rem; font-weight: 600;
-      color: var(--on-accent); background: var(--accent); border: 1px solid var(--accent); border-bottom: 0;
-      border-radius: 12px 12px 0 0; box-shadow: 0 -4px 14px color-mix(in srgb, var(--accent) 35%, transparent);
-      background: var(--ink); color: var(--paper)
-    }
-
-    .body {
-      pointer-events: auto; width: 100%; background: var(--card); border-top: 1px solid var(--line);
-      padding: calc(var(--sliver) + .5rem) .75rem calc(.75rem + env(safe-area-inset-bottom, 0px));
-      box-shadow: 0 -8px 24px rgba(0, 0, 0, .25);
-    }
-    canvas { display: block; margin: 0 auto; width: min(100%, 38dvh); aspect-ratio: 1; color: var(--ink);
-      touch-action: none; background: var(--paper); border: 1px solid var(--line); border-radius: 12px; }
-    .actions { display: flex; gap: .5rem; justify-content: center; margin-top: .6rem; }
-    .actions button { font: inherit; font-size: .85rem; padding: .4rem .8rem; border-radius: 10px;
-      border: 1px solid var(--line); background: none; color: var(--ink); }
-    @media (prefers-reduced-motion: reduce) { .sheet { transition: none; } .backdrop { transition: none; }}
-  `],
+  `
 })
 export class WritingPadComponent implements AfterViewInit {
   readonly cardId = input.required<string>();

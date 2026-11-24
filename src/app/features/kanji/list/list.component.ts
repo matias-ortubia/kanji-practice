@@ -10,6 +10,7 @@ type Filter = 'all' | 'active' | 'off';
   selector: 'app-list',
   standalone: true,
   imports: [FuriganaPipe],
+  styleUrl: './list.component.scss',
   template: `
     <div class="tools">
       <input type="search" placeholder="Buscar" [value]="q()" (input)="q.set($any($event.target).value)" />
@@ -41,26 +42,7 @@ type Filter = 'all' | 'active' | 'off';
         <li class="none">No hay tarjetas con ese filtro.</li>
       }
     </ul>
-  `,
-  styles: [`
-    :host { flex: 1; min-height: 0; overflow: auto; padding: .75rem; }
-    .tools { display: grid; gap: .5rem; }
-    input, select { font: inherit; padding: .6rem .7rem; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
-    .chips { display: flex; gap: .4rem; flex-wrap: wrap; }
-    .chips button { font: inherit; font-size: .85rem; padding: .35rem .7rem; border-radius: 99px; border: 1px solid var(--line); background: none; color: var(--ink); }
-    .chips .on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-    .total { margin: 0; font-size: .8rem; color: var(--muted); }
-    ul { list-style: none; margin: .5rem 0 0; padding: 0; display: grid; gap: .5rem; }
-    li { display: flex; gap: .75rem; align-items: center; justify-content: space-between; padding: .7rem .8rem;
-      background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
-    li.off { opacity: .6; }
-    .text { display: grid; min-width: 0; }
-    .title { font-family: var(--jp); font-weight: 700; font-size: 1.3rem; }
-    .sub { font-size: .9rem; color: var(--muted); }
-    .status { font-size: .75rem; color: var(--muted); }
-    li button { flex: none; font: inherit; font-size: .85rem; padding: .45rem .7rem; border-radius: 10px; border: 1px solid var(--line); background: none; color: var(--ink); }
-    .none { justify-content: center; color: var(--muted); }
-  `],
+  `
 })
 export class ListComponent {
   readonly deck = inject(DeckService);

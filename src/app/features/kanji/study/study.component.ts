@@ -9,6 +9,7 @@ import { WritingPadComponent } from '../writingPad/writingPad.component';
   selector: 'app-study',
   standalone: true,
   imports: [FuriganaPipe, RouterLink, WritingPadComponent],
+  styleUrl: './study.component.scss',
   template: `
     <div class="counts">
       <span><b>{{ deck.counts().new }}</b>sin ver</span>
@@ -62,36 +63,6 @@ import { WritingPadComponent } from '../writingPad/writingPad.component';
       </section>
     }
   `,
-  styles: [`
-    :host { flex: 1; min-height: 0; display: flex; flex-direction: column; }
-    .counts { display: flex; gap: 1.25rem; justify-content: center; padding: .4rem; font-size: .8rem; color: var(--muted); }
-    .counts b { font-size: 1rem; margin-right: .25rem; }
-    .counts b { color: var(--easy); } .c-learn b { color: var(--again); } .c-rev b { color: var(--good); }
-    .bar { height: 4px; margin: 0 .75rem .5rem; background: var(--line); border-radius: 2px; overflow: hidden; }
-    .bar i { display: block; height: 100%; background: var(--good); transition: width .3s; }
-    .card { flex: 1; min-height: 0; overflow: auto; margin: 0 .75rem; padding: 1.25rem; display: flex;
-      background: var(--card); border: 1px solid var(--line); border-radius: 14px; text-align: center; cursor: pointer; }
-    .inner { margin: auto 0; width: 100%; display: flex; flex-direction: column; gap: .5rem; }
-    p { margin: 0; }
-    .phrase { font-family: var(--jp); font-weight: 700; font-size: 2.3rem; line-height: 1.6; }
-    .furi { font-family: var(--jp); font-size: 1.5rem; }
-    .reading { font-family: var(--jp); font-size: 1.4rem; }
-    .word { font-size: 1.15rem; }
-    .meaning { font-size: 1.2rem; font-weight: 600; }
-    .notes { font-size: .9rem; color: var(--muted); }
-    hr { width: 100%; border: 0; border-top: 1px solid var(--line); margin: .9rem 0; }
-    footer { display: grid; gap: .4rem; padding: .75rem .75rem calc(.5rem + env(safe-area-inset-bottom)); }
-    .show { background: var(--ink); color: var(--paper); border: 0; border-radius: 12px; min-height: 56px; font: inherit; font-weight: 600; }
-    .rates { display: grid; grid-template-columns: repeat(4, 1fr); gap: .4rem; }
-    .rate { border: 0; border-radius: 12px; color: #fff; min-height: 58px; padding: .5rem .2rem; font: inherit;
-      font-weight: 600; font-size: .9rem; display: flex; flex-direction: column; align-items: center; justify-content: center; }
-    .rate small { font-weight: 400; font-size: .72rem; opacity: .85; }
-    .again { background: var(--again); } .hard { background: var(--hard); }
-    .good { background: var(--good); } .easy { background: var(--easy); }
-    .aside { background: none; border: 0; color: var(--muted); font: inherit; font-size: .85rem; padding: .35rem; }
-    .empty { margin: auto; text-align: center; display: grid; gap: .5rem; }
-    .empty a { color: var(--easy); }
-  `],
 })
 export class StudyComponent {
   readonly deck = inject(DeckService);
