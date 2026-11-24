@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { DeckService } from './deck.service';
+import { DeckService } from '../../features/kanji/deck.service';
 import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 
 @Component({

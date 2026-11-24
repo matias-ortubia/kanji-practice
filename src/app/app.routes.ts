@@ -1,7 +1,7 @@
 import { Routes } from '@angular/router';
 import { ListComponent } from './list.component';
-import { ShellComponent } from './shell.component';
-import { StudyComponent } from './study.component';
+import { ShellComponent } from './layout/shell/shell.component';
+import { StudyComponent } from './features/kanji/study/study.component';
 
 export const routes: Routes = [
   {

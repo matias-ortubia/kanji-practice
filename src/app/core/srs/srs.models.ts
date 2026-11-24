@@ -1,10 +1,3 @@
-export interface Card {
-  id: string;
-  front: { phrase: string; furigana: string; word: string; notes: string };
-  back: { fullPhrase: string; reading: string; meaning: string; notes: string };
-  tags: string[];
-}
-
 export type Rating = 1 | 2 | 3 | 4; // otra vez, difícil, bien, fácil
 
 export interface CardState {

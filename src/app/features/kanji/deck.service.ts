@@ -1,7 +1,8 @@
 import { Injectable, computed, signal } from '@angular/core';
 import { DECKS, DEFAULT_DECK_ID } from './decks';
-import { Card, CardState, Rating } from './models';
-import { MASTERED_LEVEL, newState, pickNext, previewGap, rate } from './scheduler';
+import { CardState, Rating } from '../../core/srs/srs.models';
+import { Card } from '../../features/kanji/kanji.models'
+import { MASTERED_LEVEL, newState, pickNext, previewGap, rate } from '../../core/srs/scheduler';
 
 const ACTIVE_KEY = 'srs:active';
 const progressKey = (deckId: string) => `srs:${deckId}:v2`;

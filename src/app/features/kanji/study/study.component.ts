@@ -1,8 +1,8 @@
 import { Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { DeckService } from './deck.service';
-import { FuriganaPipe } from './shared/furigana.pipe';
-import { Rating } from './models';
+import { DeckService } from '../../../features/kanji/deck.service';
+import { FuriganaPipe } from '../../../shared/furigana.pipe';
+import { Rating } from '../../../core/srs/srs.models';
 
 @Component({
   selector: 'app-study',

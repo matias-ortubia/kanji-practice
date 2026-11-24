@@ -1,4 +1,4 @@
-import { CardState, Rating } from './models';
+import { CardState, Rating } from '../../core/srs/srs.models';
 
 // Sin tiempo: todo se mide en "cantidad de tarjetas respondidas" (tick).
 // Una tarjeta con gap N vuelve después de responder N tarjetas más.

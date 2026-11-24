@@ -1,6 +1,6 @@
-import primera from './data/primera.json';
-import segunda from './data/segunda.json';
-import { Card } from './models';
+import primera from '../../data/primera.json';
+import segunda from '../../data/segunda.json';
+import { Card } from '../../features/kanji/kanji.models'
 
 export interface Deck { id: string; name: string; cards: Card[]; }
 
