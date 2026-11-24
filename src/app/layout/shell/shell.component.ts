@@ -10,8 +10,8 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
     <header>
       <span class="logo">漢字</span>
       <nav>
-        <a routerLink="/" routerLinkActive="on" [routerLinkActiveOptions]="{ exact: true }">Estudiar</a>
-        <a routerLink="/cards" routerLinkActive="on">Tarjetas</a>
+        <a routerLink="/kanji" routerLinkActive="on" [routerLinkActiveOptions]="{ exact: true }">Estudiar</a>
+        <a routerLink="/kanji/cards" routerLinkActive="on">Tarjetas</a>
       </nav>
     </header>
     <div class="decks" role="tablist">
