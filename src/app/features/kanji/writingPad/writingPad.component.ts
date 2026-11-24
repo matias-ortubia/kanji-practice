@@ -31,7 +31,7 @@ type Pt = { x: number; y: number };
     .sheet {
       --peek: calc(2.25rem + env(safe-area-inset-bottom, 0px));
       position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
-      display: flex; flex-direction: column; align-items: flex-end;
+      display: flex; flex-direction: column; align-items: flex-start;
       transform: translateY(calc(100% - var(--peek)));
       transition: transform .3s cubic-bezier(.2, .8, .2, 1);
       pointer-events: none; /* el contenedor no bloquea toques; solo la solapa y el cuerpo */
@@ -39,8 +39,8 @@ type Pt = { x: number; y: number };
     .sheet.open { transform: translateY(0); }
     .tab {
       pointer-events: auto; display: flex; align-items: flex-start; height: var(--peek);
-      padding: .5rem 1.4rem 0; font: inherit; font-size: .85rem; color: var(--ink); background: var(--ink); color: var(--paper);
-      border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; margin-right: .75rem;
+      padding: .5rem 1.4rem 0; font: inherit; font-size: .85rem; color: var(--ink); background: var(--ink); color: var(--paper); font-weight: 700;
+      border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; margin-left: .75rem;
     }
     .body {
       pointer-events: auto; width: 100%; background: var(--card); border-top: 1px solid var(--line);
