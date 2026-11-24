@@ -29,25 +29,29 @@ type Pt = { x: number; y: number };
     }
     .backdrop.on { opacity: 1; pointer-events: auto; }
     .sheet {
-      --peek: calc(2.25rem + env(safe-area-inset-bottom, 0px));
+      --tab-h: 2.25rem;
+      --sliver: calc(.5rem + env(safe-area-inset-bottom, 0px)); /* franja del panel que asoma cerrado */
+      --peek: calc(var(--tab-h) + var(--sliver));
       position: fixed; left: 0; right: 0; bottom: 0; z-index: 20;
-      display: flex; flex-direction: column; align-items: flex-start;
+      display: flex; flex-direction: column; align-items: flex-end;
       transform: translateY(calc(100% - var(--peek)));
       transition: transform .3s cubic-bezier(.2, .8, .2, 1);
       pointer-events: none;
-      user-select: none;
-      -webkit-user-select: none;   /* Safari y iOS */
-      -webkit-touch-callout: none; /* evita el menú de mantener presionado en iOS */
+      user-select: none; -webkit-user-select: none; -webkit-touch-callout: none;
     }
     .sheet.open { transform: translateY(0); }
+
     .tab {
-      pointer-events: auto; display: flex; align-items: flex-start; height: var(--peek);
-      padding: .5rem 1.4rem 0; font: inherit; font-size: .85rem; color: var(--ink); background: var(--ink); color: var(--paper); font-weight: 700;
-      border: 1px solid var(--line); border-bottom: 0; border-radius: 12px 12px 0 0; margin-left: .75rem;
+      pointer-events: auto; display: flex; align-items: center; height: var(--tab-h);
+      margin-right: .75rem; padding: 0 1.4rem; font: inherit; font-size: .85rem; font-weight: 600;
+      color: var(--on-accent); background: var(--accent); border: 1px solid var(--accent); border-bottom: 0;
+      border-radius: 12px 12px 0 0; box-shadow: 0 -4px 14px color-mix(in srgb, var(--accent) 35%, transparent);
+      background: var(--ink); color: var(--paper)
     }
+
     .body {
       pointer-events: auto; width: 100%; background: var(--card); border-top: 1px solid var(--line);
-      padding: .75rem .75rem calc(.75rem + env(safe-area-inset-bottom, 0px));
+      padding: calc(var(--sliver) + .5rem) .75rem calc(.75rem + env(safe-area-inset-bottom, 0px));
       box-shadow: 0 -8px 24px rgba(0, 0, 0, .25);
     }
     canvas { display: block; margin: 0 auto; width: min(100%, 38dvh); aspect-ratio: 1; color: var(--ink);
