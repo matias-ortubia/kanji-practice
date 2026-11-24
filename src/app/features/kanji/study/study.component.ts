@@ -3,11 +3,12 @@ import { RouterLink } from '@angular/router';
 import { DeckService } from '../../../features/kanji/deck.service';
 import { FuriganaPipe } from '../../../shared/furigana.pipe';
 import { Rating } from '../../../core/srs/srs.models';
+import { WritingPadComponent } from '../writingPad/writingPad.component';
 
 @Component({
   selector: 'app-study',
   standalone: true,
-  imports: [FuriganaPipe, RouterLink],
+  imports: [FuriganaPipe, RouterLink, WritingPadComponent],
   template: `
     <div class="counts">
       <span><b>{{ deck.counts().new }}</b>sin ver</span>
@@ -33,6 +34,10 @@ import { Rating } from '../../../core/srs/srs.models';
           }
         </div>
       </section>
+
+      @if (true) {
+        <app-writing-pad [cardId]="c.id" />
+      }
 
       <footer>
         @if (!deck.revealed()) {
