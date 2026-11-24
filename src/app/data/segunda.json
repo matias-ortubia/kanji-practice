@@ -1814,7 +1814,7 @@
     },
     "back": {
       "fullPhrase": "粉薬",
-      "reading": "こなくすり",
+      "reading": "こなぐすり",
       "meaning": "Polvos medicinales",
       "notes": ""
     },
@@ -1826,14 +1826,14 @@
   {
     "id": "Ezglk[V98i",
     "front": {
-      "phrase": "こなくすり",
+      "phrase": "こなぐすり",
       "furigana": "",
       "word": "",
       "notes": ""
     },
     "back": {
       "fullPhrase": "粉薬",
-      "reading": "こなくすり",
+      "reading": "こなぐすり",
       "meaning": "Polvos medicinales",
       "notes": ""
     },
@@ -3974,7 +3974,7 @@
     "id": "dN.ONR`s`y",
     "front": {
       "phrase": "助け呼ぶ",
-      "furigana": "た＿＿＿",
+      "furigana": "たす＿",
       "word": "",
       "notes": ""
     },
@@ -3993,7 +3993,7 @@
     "id": "luiJE]E3r8",
     "front": {
       "phrase": "助け[よぶ]",
-      "furigana": "",
+      "furigana": "たす",
       "word": "",
       "notes": ""
     },
@@ -4258,7 +4258,7 @@
   {
     "id": "q4:3Zq`6t|",
     "front": {
-      "phrase": "いき[ぐるしい]",
+      "phrase": "[いき]ぐるしい",
       "furigana": "",
       "word": "",
       "notes": ""
