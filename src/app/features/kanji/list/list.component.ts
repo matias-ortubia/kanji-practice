@@ -1,8 +1,8 @@
 import { Component, computed, inject, signal } from '@angular/core';
-import { DeckService } from './features/kanji/deck.service';
-import { FuriganaPipe } from './shared/furigana.pipe';
-import { Card } from './features/kanji/kanji.models'
-import { MASTERED_LEVEL } from './core/srs/scheduler';
+import { DeckService } from '../deck.service';
+import { FuriganaPipe } from '../../../shared/furigana.pipe';
+import { Card } from '../kanji.models'
+import { MASTERED_LEVEL } from '../../../core/srs/scheduler';
 
 type Filter = 'all' | 'active' | 'off';
 

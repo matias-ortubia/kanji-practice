@@ -1,15 +1,14 @@
 import { Routes } from '@angular/router';
-import { ListComponent } from './list.component';
 import { ShellComponent } from './layout/shell/shell.component';
-import { StudyComponent } from './features/kanji/study/study.component';
 
 export const routes: Routes = [
   {
     path: '',
     component: ShellComponent,
     children: [
-      { path: '', pathMatch: 'full', component: StudyComponent },
-      { path: 'cards', component: ListComponent },
+      { path: '', pathMatch: 'full', redirectTo: 'kanji' },
+      { path: 'kanji', loadChildren: () => import('./features/kanji/kanji.routes').then(m => m.KANJI_ROUTES) },
+      // { path: 'gramatica', loadChildren: ... } más adelante
     ],
   },
   { path: '**', redirectTo: '' },
