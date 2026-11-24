@@ -34,7 +34,10 @@ type Pt = { x: number; y: number };
       display: flex; flex-direction: column; align-items: flex-start;
       transform: translateY(calc(100% - var(--peek)));
       transition: transform .3s cubic-bezier(.2, .8, .2, 1);
-      pointer-events: none; /* el contenedor no bloquea toques; solo la solapa y el cuerpo */
+      pointer-events: none;
+      user-select: none;
+      -webkit-user-select: none;   /* Safari y iOS */
+      -webkit-touch-callout: none; /* evita el menú de mantener presionado en iOS */
     }
     .sheet.open { transform: translateY(0); }
     .tab {
