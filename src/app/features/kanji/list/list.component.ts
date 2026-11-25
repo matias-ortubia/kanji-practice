@@ -14,6 +14,7 @@ type Filter = 'all' | 'active' | 'off';
   template: `
     <div class="tools">
       <input type="search" placeholder="Buscar" [value]="q()" (input)="q.set($any($event.target).value)" />
+      <!-- TODO: descomentar cuando los filtros sean necesarios
       <select [value]="activeTag()" (change)="tag.set($any($event.target).value)">
         <option value="">Todas las etiquetas</option>
         @for (t of tags(); track t) { <option [value]="t">{{ t }}</option> }
@@ -22,7 +23,7 @@ type Filter = 'all' | 'active' | 'off';
         <button [class.on]="filter() === 'all'" (click)="filter.set('all')">Todas</button>
         <button [class.on]="filter() === 'active'" (click)="filter.set('active')">En el mazo</button>
         <button [class.on]="filter() === 'off'" (click)="filter.set('off')">Fuera del mazo ({{ offCount() }})</button>
-      </div>
+      </div> -->
       <p class="total">{{ rows().length }} tarjetas</p>
     </div>
 
