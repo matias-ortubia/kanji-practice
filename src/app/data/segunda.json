@@ -763,7 +763,7 @@
     "id": "s^!e8OAi%T",
     "front": {
       "phrase": "支度",
-      "furigana": "",
+      "furigana": "し＿",
       "word": "",
       "notes": ""
     },
@@ -781,7 +781,7 @@
   {
     "id": "PVA_pjK^/T",
     "front": {
-      "phrase": "したく",
+      "phrase": "し[たく]",
       "furigana": "",
       "word": "",
       "notes": ""
@@ -801,7 +801,7 @@
     "id": "wG5A822Dik",
     "front": {
       "phrase": "法度",
-      "furigana": "",
+      "furigana": "はっ＿",
       "word": "",
       "notes": ""
     },
@@ -819,7 +819,7 @@
   {
     "id": "ed{Z;a=$wV",
     "front": {
-      "phrase": "はっと",
+      "phrase": "はっ[と]",
       "furigana": "",
       "word": "",
       "notes": ""
@@ -1048,7 +1048,7 @@
     "id": "g&IpuhPWN8",
     "front": {
       "phrase": "典型的な",
-      "furigana": "てん＿＿",
+      "furigana": "てん＿てき",
       "word": "",
       "notes": ""
     },
@@ -1066,7 +1066,7 @@
   {
     "id": "lhj^I8?jax",
     "front": {
-      "phrase": "てんけいてき",
+      "phrase": "てん[けい]てき",
       "furigana": "",
       "word": "",
       "notes": ""
@@ -3802,7 +3802,7 @@
   {
     "id": "mQ;C>U8}F,",
     "front": {
-      "phrase": "しゅ[しょう]",
+      "phrase": "[しゅ]しょう",
       "furigana": "",
       "word": "",
       "notes": ""
@@ -4228,7 +4228,7 @@
     "back": {
       "fullPhrase": "利息",
       "reading": "りそく",
-      "meaning": "Intereses",
+      "meaning": "Interés",
       "notes": ""
     },
     "tags": [
@@ -4885,7 +4885,7 @@
   {
     "id": "i)=HT~f:/*",
     "front": {
-      "phrase": "げきつう",
+      "phrase": "げき[つう]",
       "furigana": "",
       "word": "",
       "notes": ""
@@ -4912,7 +4912,7 @@
     "back": {
       "fullPhrase": "痛む",
       "reading": "いたむ",
-      "meaning": "Me duele",
+      "meaning": "Doler",
       "notes": ""
     },
     "tags": [
@@ -4931,7 +4931,7 @@
     "back": {
       "fullPhrase": "痛む",
       "reading": "いたむ",
-      "meaning": "Me duele",
+      "meaning": "Doler",
       "notes": ""
     },
     "tags": [
@@ -4999,7 +4999,7 @@
   {
     "id": "m},,@{.AH?",
     "front": {
-      "phrase": "けん[とう]",
+      "phrase": "[けん]とう",
       "furigana": "",
       "word": "",
       "notes": ""
